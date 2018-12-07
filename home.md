@@ -17,6 +17,5 @@ page_sections:
   col_2:
     content: what happens on this page
     headline: test test test
-published: false
 
 ---
