@@ -41,3 +41,5 @@ fields:
   label: color_selection
   name: color_selection
   description: select a color
+pages:
+- about.md
