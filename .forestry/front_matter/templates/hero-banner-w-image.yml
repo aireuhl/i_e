@@ -1,7 +1,7 @@
 ---
 label: hero-banner-w-image
 hide_body: false
-is_partial: true
+is_partial: false
 fields:
 - type: text
   hidden: true
@@ -35,3 +35,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: color
+  config:
+    color_format: Hex
+  label: color_selection
+  name: color_selection
+  description: select a color
