@@ -34,5 +34,6 @@ fields:
   - 4-column-footer
 pages:
 - 404.md
+- home.md
 - index.md
 - maps.md
