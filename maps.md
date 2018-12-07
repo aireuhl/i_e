@@ -11,7 +11,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Composite Vision
+  headline: ImagePlot Visualizations
   media:
     image: "/uploads/2018/12/07/datevhue.jpg"
     alt_text: Date vs Hue
