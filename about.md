@@ -12,6 +12,5 @@ color_selection: "#9013FE"
 menu:
   main:
     weight: 3
-published: false
 
 ---
