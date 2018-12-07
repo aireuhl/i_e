@@ -18,6 +18,15 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: Home
+    link_text: "/home"
+  - {}
+  - {}
+  - {}
+  logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: ''
