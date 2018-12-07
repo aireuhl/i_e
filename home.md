@@ -8,6 +8,14 @@ page_sections:
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
   navigation:
   - {}
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Imperial Eyes
+    content: A project about things
+  col_2:
+    content: what happens on this page
+    headline: test test test
 published: false
 
 ---
