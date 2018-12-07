@@ -73,6 +73,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: "© 2018 "
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
 foo bar
