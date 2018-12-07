@@ -20,6 +20,10 @@ page_sections:
   block: media-2
 - template: full-width-media-element
   block: media-1
+- template: detail-content
+  block: text-1
+  headline: THE HEADLINE
+  content: <p>how does the "detail content look"</p>
 published: false
 
 ---
