@@ -12,19 +12,10 @@ page_sections:
   - {}
   - {}
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
-- template: hero-banner-w-image
-  block: hero-2
-  headline: ''
-  content: ''
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: ''
-    alt_text: ''
-  background_image: "/uploads/2018/12/07/62.jpg"
-  color_selection: "#417505"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/07/62.jpg"
+  caption: test text for map
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -51,10 +42,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/07/62.jpg"
-  caption: test text for map
 - template: simple-footer
   block: footer-1
   content: "© 2018 "
