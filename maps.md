@@ -7,7 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/12/07/1.jpg"
   navigation:
-  - link_text: Home
+  - link_text: Next?
+    link: not sure how to build the links
 - template: content-feature
   block: feature-1
   media_alignment: Right
