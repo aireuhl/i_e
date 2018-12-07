@@ -28,7 +28,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2018/12/07/62.jpg"
   color_selection: "#417505"
 - template: content-feature
