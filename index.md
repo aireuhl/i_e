@@ -6,9 +6,10 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: Home
-    link_text: "/home"
-  - {}
+  - link: The Project
+    link_text: The Project
+  - link: About
+    link_text: About
   - {}
   - {}
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
