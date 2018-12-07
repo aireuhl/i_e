@@ -11,6 +11,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Composite Vision
+  media:
+    image: "/uploads/2018/12/07/datevhue.jpg"
+    alt_text: Date vs Hue
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
