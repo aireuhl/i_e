@@ -1,0 +1,9 @@
+---
+label: image_gallery
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  name: image_gallery
+  label: image_gallery
+  description: add images
