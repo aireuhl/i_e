@@ -32,7 +32,10 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - image_gallery
 pages:
 - timeline.md
 - index.md
 - av.md
+- analysis.md
+- about.md
