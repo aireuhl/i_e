@@ -60,6 +60,10 @@ page_sections:
   image_2:
     image: "/uploads/2018/12/09/GoogleEarth2.jpg"
     caption: Warped Map as .KMG layer in Google Earth
+- template: full-width-media-element
+  block: media-1
+  caption: "<iframe style='width: 510px; height: 434px;' src='//voyant-tools.org/tool/DreamScape/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
 menu:
   main:
     weight: 3
