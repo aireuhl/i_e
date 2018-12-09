@@ -22,6 +22,5 @@ page_sections:
   - link: NEXT STEPS
     link_text: NEXT STEPS
   - link_text: ABOUT US
-published: false
 
 ---
