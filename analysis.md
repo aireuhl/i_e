@@ -7,6 +7,12 @@ page_sections:
   block: ''
   navigation: ''
   logo: ''
+  gallery:
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
