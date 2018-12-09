@@ -10,7 +10,7 @@ page_sections:
     title="Timeline"><img src="/uploads/2018/12/08/035thumb.jpg"></a>
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/12/09/red-line-980x380.png"
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
   caption: "<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&font=Default&lang=en&initial_zoom=2&height=650'
     width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
     frameborder='0'></iframe>"
