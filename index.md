@@ -104,8 +104,11 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/blueline_small.jpg"
-  caption: <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative
-    Commons Attribution-NonCommercial 4.0 International License</a>.
+  caption: Creative Commons License
+- template: detail-content
+  block: text-1
+  content: <p><a href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"
+    alt="Creative Commons License"></a></p>
 menu:
   main:
     identifier: home
