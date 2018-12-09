@@ -3,16 +3,6 @@ title: Analysis
 layout: blocks
 date: 2018-12-07 06:25:21 +0000
 page_sections:
-- template: gallery
-  block: ''
-  navigation: ''
-  logo: ''
-  gallery:
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
@@ -41,5 +31,13 @@ page_sections:
     image: "/uploads/2018/12/09/netviz_one.png"
   image_2:
     image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+- template: image_gallery
+  image_gallery:
+  - "/uploads/2018/12/09/netviz_one.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
 
 ---
