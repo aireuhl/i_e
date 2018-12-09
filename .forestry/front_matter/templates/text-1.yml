@@ -4,8 +4,10 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  hidden: true
+  hidden: false
   label: block
   name: block
   default: text-1
+  config:
+    required: true
 - type: textarea
