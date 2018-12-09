@@ -33,6 +33,9 @@ page_sections:
     alt_text: Credit
   headline: What kind of data?
   content: Why?
+- template: simple-footer
+  block: footer-1
+  content: copyright 2018
 menu:
   main:
     identifier: home
