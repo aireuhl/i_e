@@ -3,6 +3,16 @@ title: About
 layout: blocks
 date: 2018-12-09 08:25:59 +0000
 page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: TIMELINE
+    link_text: TIMELINE
+  - link: ANALYSIS AND VISUALIZATION
+    link_text: ANALYSIS AND VISUALIZATIONS
+  - link: NEXT STEPS
+    link_text: NEXT STEPS
+  - link_text: ABOUT US
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -12,15 +22,5 @@ page_sections:
   col_2:
     headline: Ariel Hahn
     content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: TIMELINE
-    link_text: TIMELINE
-  - link: ANALYSIS AND VISUALIZATION
-    link_text: ANALYSIS AND VISUALIZATION
-  - link: NEXT STEPS
-    link_text: NEXT STEPS
-  - link_text: ABOUT US
 
 ---
