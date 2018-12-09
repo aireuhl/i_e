@@ -85,9 +85,6 @@ page_sections:
     (our relatives/relations) past, present and emerging." <br><br>This territory
     acknowledgement and accompanying pronunciations are attributed to <a href="https://www.wacd.ucla.edu/"
     title="">the UCLA World Arts and Cultures/Dance Department</a>.</h4>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/09/blueline_small.jpg"
 - template: 1-column-text
   block: one-column-1
   content: This project was developed in a graduate information studies course at
@@ -104,6 +101,9 @@ page_sections:
     title="">the UCLA World Arts and Cultures/Dance Department</a>.<br><br><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"><br><a
     href="http://creativecommons.org/licenses/by-nc/4.0/" title="">This work is licensed
     under a Creative Commons Attribution-Non Commercial 4.0 International License.</a>
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/blueline_small.jpg"
 menu:
   main:
     identifier: home
