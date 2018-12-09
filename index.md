@@ -11,6 +11,13 @@ page_sections:
   block: header-2
   navigation:
   - {}
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2018/12/07/datevhue.jpg"
+  headline: Understanding Maps
+  content: Why this project?
 menu:
   main:
     identifier: home
