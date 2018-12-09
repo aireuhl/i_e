@@ -89,6 +89,9 @@ page_sections:
     alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"
     /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative
     Commons Attribution-NonCommercial 4.0 International License</a>.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/blue_line_small.jpg"
 - template: 1-column-text
   block: one-column-1
   content: This project was developed in a graduate information studies course at
@@ -102,12 +105,10 @@ page_sections:
     and <a href="https://www.aisc.ucla.edu/sounds/our%20relatives.wav">eyoohiinkem</a>
     (our relatives/relations) past, present and emerging." <br><br>This territory
     acknowledgement and accompanying pronunciations are attributed to <a href="https://www.wacd.ucla.edu/"
-    title="">the UCLA World Arts and Cultures/Dance Department</a>.<br><br><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"><br><a
-    href="http://creativecommons.org/licenses/by-nc/4.0/" title="">This work is licensed
-    under a Creative Commons Attribution-Non Commercial 4.0 International License.</a>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/09/blue_line_small.jpg"
+    title="">the UCLA World Arts and Cultures/Dance Department</a>.<br><br><img src="/uploads/2018/12/09/blue_line_small.jpg"><br><br><img
+    src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"><br><a href="http://creativecommons.org/licenses/by-nc/4.0/"
+    title="">This work is licensed under a Creative Commons Attribution-Non Commercial
+    4.0 International License.</a>
 menu:
   main:
     identifier: home
