@@ -7,7 +7,8 @@ page_sections:
   block: header-1
   navigation:
   - link: About
-    link_text: about
+    link_text: ABOUT
+  logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/front_matter_invert.jpg"
