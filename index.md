@@ -91,7 +91,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: This project was developed in a graduate information studies course at
-    UCLA in the fall of 2018.<br><br><br>Imperial Eyes acknowledges the Tongva peoples
+    UCLA in the fall of 2018.<br><br>Imperial Eyes acknowledges the Tongva peoples
     as the traditional land caretakers of <a href="https://www.aisc.ucla.edu/sounds/world.wav">Tovaangar</a>
     (Los Angeles basin, So. Channel Islands) and are grateful to have the opportunity
     to work for the <a href="https://www.aisc.ucla.edu/sounds/people.wav">taraaxatom</a>
