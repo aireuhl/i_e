@@ -13,6 +13,8 @@ page_sections:
   - link: NEXT STEPS
     link_text: NEXT STEPS
   - link_text: ABOUT US
+    link: about
+  logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: 2-column-text
   block: two-column-1
   col_1:
