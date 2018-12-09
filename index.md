@@ -104,10 +104,6 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/blueline_small.jpg"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <img src="/uploads/2018/12/09/blueline_small.jpg">
 menu:
   main:
     identifier: home
