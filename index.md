@@ -43,8 +43,8 @@ page_sections:
   media:
     image: "/uploads/2018/12/07/62.jpg"
     alt_text: Credit
-  headline: What kind of data?
-  content: Why?
+  headline: "<strong><em>Our Data, Our Workflows</em></strong>"
+  content: 'Transparency about our process ... XXX ... TTT ... '
 - template: simple-footer
   block: footer-1
   content: "© 2018"
