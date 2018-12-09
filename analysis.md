@@ -60,5 +60,9 @@ page_sections:
   image_2:
     image: "/uploads/2018/12/09/GoogleEarth2.jpg"
     caption: Warped Map as .KMG layer in Google Earth
+menu:
+  main:
+    weight: 3
+    title: Analysis and Visualizations
 
 ---

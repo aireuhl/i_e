@@ -24,5 +24,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: ''
+menu:
+  main:
+    weight: 2
 
 ---

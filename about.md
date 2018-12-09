@@ -30,6 +30,10 @@ page_sections:
   - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
   - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
   - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+menu:
+  main:
+    weight: 5
+    title: About Us
 
 ---
 ### **Resources**

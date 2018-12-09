@@ -19,5 +19,8 @@ page_sections:
     link_text: NEXT STEPS
   - link: about
     link_text: ABOUT US
+menu:
+  main:
+    weight: 4
 
 ---
