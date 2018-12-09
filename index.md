@@ -8,9 +8,10 @@ page_sections:
   navigation:
   - link: timeline
     link_text: TIMELINE
-  - link: ''
+  - link: analysis
     link_text: ANALYSIS AND VISUALIZATIONS
   - link_text: NEXT STEPS
+    link: future
   - link: about
     link_text: ABOUT US
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"

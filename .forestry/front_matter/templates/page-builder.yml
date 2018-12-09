@@ -34,7 +34,7 @@ fields:
   - 4-column-footer
 pages:
 - timeline.md
-- index.md
 - future.md
+- index.md
 - maps.md
 - about-us.md
