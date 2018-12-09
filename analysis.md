@@ -7,6 +7,7 @@ page_sections:
   block: media-2
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
 - template: 1-column-text
   block: one-column-1
   headline: WHO WHAT WHEN WHERE
