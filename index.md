@@ -23,7 +23,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2018/12/07/datevhue.jpg"
+    image: "/uploads/2018/12/09/1049_original.jpg"
+    alt_text: 'Treaty with the Delaware, 1778. Image from the National Archives, Public
+      Domain. '
   headline: "<strong><em>Project Summary</em></strong>"
   content: Imperial Eyes uses digital tools to engage with the ideological, physical
     and geographic creation of the United States. Through a side-by-side visual analysis
