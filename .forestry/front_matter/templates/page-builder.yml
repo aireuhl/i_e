@@ -35,6 +35,6 @@ fields:
   - image_gallery
 pages:
 - index.md
-- about.md
 - analysis.md
 - timeline.md
+- about.md
