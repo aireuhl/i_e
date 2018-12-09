@@ -87,10 +87,15 @@ page_sections:
     title="">the UCLA World Arts and Cultures/Dance Department</a>.</h4>
 - template: full-width-media-element
   block: media-1
-  caption: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img
-    alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"
-    /></a>
+  caption: ''
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
+- template: 1-column-text
+  block: one-column-1
+  content: '&lt;a rel="license" href="<a href="http://creativecommons.org/licenses/by-nc/4.0/"
+    title="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</a>"&gt;&lt;/a&gt;&lt;br
+    /&gt;This work is licensed under a &lt;a rel="license" href="<a href="http://creativecommons.org/licenses/by-nc/4.0/"
+    title="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</a>"&gt;Creative
+    Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;.'
 menu:
   main:
     identifier: home
