@@ -19,6 +19,5 @@ page_sections:
     title="Interactive Timeline of Early North American Maps">Interactive Timeline
     of Early North American Maps</a></p>
   headline: Timeline
-published: false
 
 ---
