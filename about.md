@@ -2,7 +2,7 @@
 title: About
 block: hero-2
 date: 2018-12-07 06:10:11 +0000
-background_image: "/uploads/2018/12/07/giphy.gif"
+background_image: "/uploads/2018/12/09/netviz_one.png"
 image:
   image: ''
   alt_text: ''
