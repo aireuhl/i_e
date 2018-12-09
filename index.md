@@ -24,7 +24,11 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/2018/12/09/1049_original.jpg"
-    alt_text: The above image depicts an XXX.
+    alt_text: The above image depicts the Treaty of the Delaware from 1778, a large
+      piece of paper that is divided between treaty text and signatures. The document
+      is faded yellow-beige in color and appears to have been folded at four points
+      as there are creases and wear. In the bottom-right hand corner, there are five
+      red wax seals that are tied to some of the individuals who signed this treaty.
   headline: "<strong><em>Project Summary</em></strong>"
   content: Imperial Eyes uses digital tools to engage with the ideological, physical
     and geographic creation of the United States. Through a side-by-side visual analysis
