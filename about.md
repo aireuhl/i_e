@@ -4,7 +4,7 @@ layout: blocks
 date: 2018-12-09 08:25:59 +0000
 page_sections:
 - template: text-1
-  block: default
+  block: text-1
   navigation: ''
   logo: ''
 - template: navigation-header
