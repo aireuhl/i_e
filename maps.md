@@ -1,5 +1,5 @@
 ---
-title: Maps
+title: Analysis
 layout: blocks
 date: 2018-12-07 06:25:21 +0000
 page_sections:
@@ -15,8 +15,9 @@ page_sections:
   block: media-1
 - template: detail-content
   block: text-1
-  content: <p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650"
-    title="Interactive Timeline of Early North American Maps">https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650</a></p>
+  content: <p></p><p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650"
+    title="Interactive Timeline of Early North American Maps">Interactive Timeline
+    of Early North American Maps</a></p>
   headline: Timeline
 published: false
 

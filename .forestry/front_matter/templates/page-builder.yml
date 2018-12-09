@@ -35,8 +35,8 @@ fields:
 pages:
 - 404.md
 - home.md
-- maps.md
 - timeline.md
 - index.md
 - about-us.md
 - network-visualizations.md
+- maps.md
