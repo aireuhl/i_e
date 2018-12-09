@@ -53,12 +53,13 @@ page_sections:
 - template: detail-content
   block: text-1
   content: <h4>This project was developed in a graduate information studies course
-    at UCLA. <br><br>Imperial Eyes acknowledges the Tongva peoples as the traditional
-    land caretakers of <a href="https://www.aisc.ucla.edu/sounds/world.wav">Tovaangar</a>
-    (Los Angeles basin, So. Channel Islands) and are grateful to have the opportunity
-    to work for the <a href="https://www.aisc.ucla.edu/sounds/people.wav">taraaxatom</a>
-    (indigenous peoples) in this place. As a land grant institution, we pay our respects
-    to <a href="https://www.aisc.ucla.edu/sounds/ancestors.wav">Honuukvetam</a> (Ancestors),
+    at UCLA. Download File<img src="/uploads/2018/12/09/red-line-980x380.png"><br><br>Imperial
+    Eyes acknowledges the Tongva peoples as the traditional land caretakers of <a
+    href="https://www.aisc.ucla.edu/sounds/world.wav">Tovaangar</a> (Los Angeles basin,
+    So. Channel Islands) and are grateful to have the opportunity to work for the
+    <a href="https://www.aisc.ucla.edu/sounds/people.wav">taraaxatom</a> (indigenous
+    peoples) in this place. As a land grant institution, we pay our respects to <a
+    href="https://www.aisc.ucla.edu/sounds/ancestors.wav">Honuukvetam</a> (Ancestors),
     <a href="https://www.aisc.ucla.edu/sounds/wise%20people.wav">Ahiihirom </a>(Elders),
     and <a href="https://www.aisc.ucla.edu/sounds/our%20relatives.wav">eyoohiinkem</a>
     (our relatives/relations) past, present and emerging." <br><br>This territory
