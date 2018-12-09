@@ -8,4 +8,4 @@ fields:
   label: gallery
   name: gallery
   description: 'add as many images as you want! '
-  hidden: true
+  hidden: false
