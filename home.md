@@ -15,5 +15,12 @@ page_sections:
   col_2:
     content: what happens on this page
     headline: test test test
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2018/12/07/datevhue.jpg"
+  headline: test
+  content: test
 
 ---
