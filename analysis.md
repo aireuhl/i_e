@@ -40,5 +40,13 @@ page_sections:
   - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
   - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
   - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
+    caption: Warped Maps Layered in Google Earth - Animated
+  image_2:
+    image: "/uploads/2018/12/09/GoogleEarth2.jpg"
+    caption: Warped Map as .KMG layer in Google Earth
 
 ---
