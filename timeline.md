@@ -7,9 +7,13 @@ page_sections:
   block: header-1
   navigation:
   - link_text: TIMELINE
+    link: timeline
   - link_text: ANALYSIS AND VISUALIZATIONS
+    link: analysis
   - link_text: NEXT STEPS
+    link: nextsteps
   - link_text: ABOUT US
+    link: about
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: full-width-media-element
   block: media-1
