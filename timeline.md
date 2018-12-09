@@ -23,15 +23,8 @@ page_sections:
     frameborder='0'></iframe>"
 - template: detail-content
   block: text-1
-  headline: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: SUMMARY OF THE MAP
-    headline: TITLE
-  col_2:
-    headline: SUMMARY 2
-    content: what does this look like
+  headline: is this center-justified
+  content: "<p>hello test</p><p>test test</p>"
 menu:
   main:
     weight: 2
