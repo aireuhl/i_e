@@ -6,6 +6,5 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
-published: false
 
 ---
