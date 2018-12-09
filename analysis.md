@@ -3,6 +3,10 @@ title: Analysis
 layout: blocks
 date: 2018-12-07 06:25:21 +0000
 page_sections:
+- template: gallery
+  block: ''
+  navigation: ''
+  logo: ''
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
