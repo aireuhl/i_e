@@ -35,7 +35,7 @@ page_sections:
   content: Why?
 - template: simple-footer
   block: footer-1
-  content: copyright 2018
+  content: "© 2018"
 menu:
   main:
     identifier: home
