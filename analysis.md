@@ -66,7 +66,7 @@ page_sections:
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
 - template: full-width-media-element
   block: media-1
-  caption: "<iframe style='width: 1257px; height: 733px;' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
+  caption: "<iframe style='width: 65%' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
 menu:
   main:
