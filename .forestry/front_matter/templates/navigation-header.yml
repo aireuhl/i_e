@@ -11,7 +11,6 @@ fields:
 - type: file
   name: logo
   label: Logo
-  link: Homepage
 - type: field_group_list
   name: navigation
   label: Navigation
