@@ -15,8 +15,8 @@ page_sections:
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/12/07/62.jpg"
-  caption: test text for map
+  image: "/uploads/2018/12/09/front_matter-1.jpg"
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
