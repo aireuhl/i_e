@@ -9,6 +9,10 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: ''
+    link_text: TIMELINE
+  - link: ''
+    link_text: ANALYSIS AND VISUALIZATIONS
   - link: About
     link_text: ABOUT
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
