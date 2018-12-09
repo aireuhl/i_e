@@ -6,7 +6,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/front_matter_invert.jpg"
-  caption: ''
+  caption: imperial eyes – a digital humanities project about time, space, and power
 - template: navigation-header-w-button
   block: header-2
   navigation:
