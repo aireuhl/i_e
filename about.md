@@ -6,11 +6,11 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: TIMELINE
+  - link: timeline
     link_text: TIMELINE
-  - link: ANALYSIS AND VISUALIZATION
+  - link: analysis
     link_text: ANALYSIS AND VISUALIZATIONS
-  - link: NEXT STEPS
+  - link: nextsteps
     link_text: NEXT STEPS
   - link_text: ABOUT US
     link: about
