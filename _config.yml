@@ -4,7 +4,7 @@ email: arielhahn@ucla.edu / asawilder@gmail.com
 description: >-
   a digital humanities project 
 baseurl: "/i_e/" # the subpath of your site, e.g. /blog
-url: "https://aireuhl.github.io" # your site's origin, e.g. https://forestry.io
+url: "https://aireuhl.github.io/i_e" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
