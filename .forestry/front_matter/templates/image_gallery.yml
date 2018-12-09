@@ -9,3 +9,4 @@ fields:
   description: add images
 pages:
 - av.md
+- analysis.md
