@@ -3,9 +3,6 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: navigation-header
   block: header-1
   navigation:
