@@ -105,6 +105,9 @@ page_sections:
     title="">the UCLA World Arts and Cultures/Dance Department</a>.<br><br><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"><br><a
     href="http://creativecommons.org/licenses/by-nc/4.0/" title="">This work is licensed
     under a Creative Commons Attribution-Non Commercial 4.0 International License.</a>
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/blue_line_small.jpg"
 menu:
   main:
     identifier: home
