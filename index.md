@@ -24,8 +24,20 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/2018/12/07/datevhue.jpg"
-  headline: Understanding Maps
-  content: Why this project?
+  headline: "<strong>Project Summary</strong><em><br>What are we doing? Why are we
+    doing it? </em>"
+  content: Imperial Eyes uses digital tools to engage with the ideological, physical
+    and geographic creation of the United States. Through a side-by-side visual analysis
+    of historical maps, and a textual analysis of land acquisition treaties, we ask:<em>
+    how did the acquisition and theft of land by European colonizers influence the
+    way the continent was conceived, envisioned and mapped? <br>What can the visual
+    qualities of maps tell us about the role cartography plays in the larger development
+    of colonization? <br><br></em>Additionally, using digital tools to draw out deep,
+    hard-to-decipher patterns, we attempt to answer questions about how government
+    treaties helped shape the way land and space were visualized by early American
+    cartographers. <br><br>By creating a navigable timeline of maps and treaties,
+    we hope to offer a deeper understanding of the way space is visualized in relation
+    to political circumstances and cultural assumptions.
 - template: content-feature
   block: feature-1
   media_alignment: Left
