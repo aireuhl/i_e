@@ -91,11 +91,9 @@ page_sections:
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
 - template: 1-column-text
   block: one-column-1
-  content: '&lt;a rel="license" href="<a href="http://creativecommons.org/licenses/by-nc/4.0/"
-    title="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</a>"&gt;&lt;/a&gt;&lt;br
-    /&gt;This work is licensed under a &lt;a rel="license" href="<a href="http://creativecommons.org/licenses/by-nc/4.0/"
-    title="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</a>"&gt;Creative
-    Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;.'
+  content: <img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"><br><a href="http://creativecommons.org/licenses/by-nc/4.0/"
+    title="">This work is licensed under a Creative Commons Attribution-Non Commercial
+    4.0 International License.</a>
 menu:
   main:
     identifier: home
