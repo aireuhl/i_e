@@ -21,9 +21,8 @@ page_sections:
   caption: "<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&font=Default&lang=en&initial_zoom=2&height=650'
     width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
     frameborder='0'></iframe>"
-- template: 1-column-text
-  block: one-column-1
-  headline: Why Make a timeline?
-  content: summary of timeline why it is useful what could be done next
+- template: detail-content
+  block: text-1
+  headline: ''
 
 ---
