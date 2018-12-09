@@ -14,7 +14,7 @@ page_sections:
   - link: ''
     link_text: ANALYSIS AND VISUALIZATIONS
   - link: About
-    link_text: ABOUT
+    link_text: ABOUT US
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: full-width-media-element
   block: media-1
