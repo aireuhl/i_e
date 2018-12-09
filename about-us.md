@@ -12,6 +12,16 @@ page_sections:
   col_2:
     headline: Ariel Hahn
     content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: TIMELINE
+    link_text: TIMELINE
+  - link: ANALYSIS AND VISUALIZATION
+    link_text: ANALYSIS AND VISUALIZATION
+  - link: NEXT STEPS
+    link_text: NEXT STEPS
+  - link_text: ABOUT US
 published: false
 
 ---
