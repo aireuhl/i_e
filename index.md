@@ -28,6 +28,9 @@ page_sections:
     alt_text: Credit
   headline: What kind of data?
   content: Why?
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 menu:
   main:
     identifier: home
