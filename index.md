@@ -64,6 +64,20 @@ page_sections:
     (our relatives/relations) past, present and emerging."   <br><br>This territory
     acknowledgement and accompanying pronunciations are attributed to <a href="https://www.wacd.ucla.edu/"
     title="">the UCLA World Arts and Cultures/Dance Department</a>.                    '
+- template: detail-content
+  block: text-1
+  content: <h6>This project was developed in a graduate information studies course
+    at UCLA. <br><br>Imperial Eyes acknowledges the Tongva peoples as the traditional
+    land caretakers of <a href="https://www.aisc.ucla.edu/sounds/world.wav">Tovaangar</a>
+    (Los Angeles basin, So. Channel Islands) and are grateful to have the opportunity
+    to work for the <a href="https://www.aisc.ucla.edu/sounds/people.wav">taraaxatom</a>
+    (indigenous peoples) in this place. As a land grant institution, we pay our respects
+    to <a href="https://www.aisc.ucla.edu/sounds/ancestors.wav">Honuukvetam</a> (Ancestors),
+    <a href="https://www.aisc.ucla.edu/sounds/wise%20people.wav">Ahiihirom </a>(Elders),
+    and <a href="https://www.aisc.ucla.edu/sounds/our%20relatives.wav">eyoohiinkem</a>
+    (our relatives/relations) past, present and emerging." <br><br>This territory
+    acknowledgement and accompanying pronunciations are attributed to <a href="https://www.wacd.ucla.edu/"
+    title="">the UCLA World Arts and Cultures/Dance Department</a>.</h6>
 menu:
   main:
     identifier: home
