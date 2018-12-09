@@ -3,11 +3,14 @@ title: Timeline
 layout: blocks
 date: ''
 page_sections:
-- template: 1-column-text
-  block: one-column-1
-  headline: click for timeline
-  content: <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650"
-    title="Timeline"><img src="/uploads/2018/12/08/035thumb.jpg"></a>
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link_text: TIMELINE
+  - link_text: ANALYSIS AND VISUALIZATIONS
+  - link_text: NEXT STEPS
+  - link_text: ABOUT US
+  logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
