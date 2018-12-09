@@ -22,5 +22,14 @@ page_sections:
     title="Interactive Timeline of Early North American Maps">Interactive Timeline
     of Early North American Maps</a></p>
   headline: Timeline
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/netviz_one.png"
+  image_2:
+    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
 
 ---
