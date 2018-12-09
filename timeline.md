@@ -14,6 +14,10 @@ page_sections:
   content: "&lt;iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650'
     width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
     frameborder='0'&gt;&lt;/iframe&gt;"
+  media:
+    alt_text: "<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&font=Default&lang=en&initial_zoom=2&height=650'
+      width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen
+      frameborder='0'></iframe>"
 published: false
 
 ---
