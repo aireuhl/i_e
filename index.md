@@ -73,8 +73,8 @@ page_sections:
     repository. Please feel free to download, experiment and share. '
 - template: detail-content
   block: text-1
-  content: <h5>This project was developed in a graduate information studies course
-    at UCLA in the fall of 2018.<br><br>Imperial Eyes acknowledges the Tongva peoples
+  content: <h4>This project was developed in a graduate information studies course
+    at UCLA in the fall of 2018<br><br>Imperial Eyes acknowledges the Tongva peoples
     as the traditional land caretakers of <a href="https://www.aisc.ucla.edu/sounds/world.wav">Tovaangar</a>
     (Los Angeles basin, So. Channel Islands) and are grateful to have the opportunity
     to work for the <a href="https://www.aisc.ucla.edu/sounds/people.wav">taraaxatom</a>
@@ -84,7 +84,7 @@ page_sections:
     and <a href="https://www.aisc.ucla.edu/sounds/our%20relatives.wav">eyoohiinkem</a>
     (our relatives/relations) past, present and emerging." <br><br>This territory
     acknowledgement and accompanying pronunciations are attributed to <a href="https://www.wacd.ucla.edu/"
-    title="">the UCLA World Arts and Cultures/Dance Department</a>.</h5>
+    title="">the UCLA World Arts and Cultures/Dance Department</a>.</h4>
 menu:
   main:
     identifier: home
