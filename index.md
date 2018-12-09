@@ -7,10 +7,6 @@ page_sections:
   block: media-1
   image: "/uploads/2018/12/09/front_matter_invert.jpg"
   caption: imperial eyes – a digital humanities project about time, space, and power
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - {}
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -18,6 +14,14 @@ page_sections:
     image: "/uploads/2018/12/07/datevhue.jpg"
   headline: Understanding Maps
   content: Why this project?
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2018/12/07/62.jpg"
+    alt_text: Credit
+  headline: What kind of data?
+  content: Why?
 menu:
   main:
     identifier: home
