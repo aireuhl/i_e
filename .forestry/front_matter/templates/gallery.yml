@@ -1,6 +1,6 @@
 ---
 label: gallery
-hide_body: false
+hide_body: true
 is_partial: true
 display_field: gallery
 fields:
