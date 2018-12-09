@@ -34,7 +34,7 @@ fields:
   - 4-column-footer
   - image_gallery
 pages:
-- analysis.md
 - timeline.md
 - index.md
 - about.md
+- analysis.md
