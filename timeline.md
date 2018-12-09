@@ -24,7 +24,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: is this center-justified
-  content: "<p>hello test</p><p>test test</p>"
+  content: <p><img src="/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"></p><p>hello
+    test</p><p>test test</p>
 menu:
   main:
     weight: 2
