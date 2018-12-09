@@ -10,8 +10,6 @@ page_sections:
     link_text: The Project
   - link: About
     link_text: About
-  - {}
-  - {}
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: full-width-media-element
   block: media-1
