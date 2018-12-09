@@ -24,8 +24,7 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/2018/12/07/datevhue.jpg"
-  headline: "<strong>Project Summary</strong><em><br>What are we doing? Why are we
-    doing it? </em>"
+  headline: "<strong><em>Project Summary</em></strong>"
   content: Imperial Eyes uses digital tools to engage with the ideological, physical
     and geographic creation of the United States. Through a side-by-side visual analysis
     of historical maps, and a textual analysis of land acquisition treaties, we ask:<em>
