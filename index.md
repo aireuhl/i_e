@@ -18,7 +18,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/front_matter_invert.jpg"
-  caption: a digital humanities project about time, space, and power
+  caption: a digital humanities project about time, space and power
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -49,7 +49,28 @@ page_sections:
     image: "/uploads/2018/12/07/62.jpg"
     alt_text: Credit
   headline: "<strong><em>Our Data, Our Workflows</em></strong>"
-  content: 'Transparency about our process ... XXX ... TTT ... '
+  content: 'As information studies graduate students and future librarians or archivists,
+    we are deeply interested in executing projects predicted upon collaboration, accessibility
+    and transparency. <br><br>All of the textual data and digital images featured
+    within Imperial Eyes are in the public domain. This was an intentional choice
+    so that the future of this project is neither owned or controlled by us specifically,
+    nor will it be negatively impacted by intellectual property laws. The map components
+    of our project, in terms of actual .jpg and .tif files as well as .xml metadata,
+    come from the <a href="https://digitalcollections.nypl.org/collections/maps-of-north-america"
+    title="">New York Public Library’s “Maps of North America” Digital Collection</a>.
+    The text-based treaty elements of this project come from Yale Law School''s "<a
+    href="http://avalon.law.yale.edu/default.asp" title="">Avalon Project: Documents
+    in Law, History and Diplomacy.</a>" That online text was transcribed from the
+    multiple volumes of <a href="https://www.worldcat.org/search?q=au%3AKappler%2C+Charles+Joseph%2C&amp;qt=hot_author"
+    title="">Charles Joseph Kappler''s</a> <em>Indian Affairs: Laws and Treaties</em>,
+    a bound collection of United States governmental laws and treaties with Indian
+    nations that stem from the beginning of this country. Images for our treaties
+    are a combination of digitized pages from Kappler''s text and actual digital scans
+    of original treaties, gathered from online digital collections and exhibits by
+    the National Archives, University of Wisconsin-Madison, Beaver Area Heritage Foundation,
+    and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
+    files, images, and workflow information all accessible within this site''s Github
+    repository. Please feel free to download, experiment and share. '
 - template: detail-content
   block: text-1
   content: <h5>This project was developed in a graduate information studies course
