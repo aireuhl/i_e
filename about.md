@@ -30,7 +30,7 @@ page_sections:
     content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
 
 ---
-Resources
+### **Resources**
 
 Imperial Eyes is not the first digital or archival project to investigate colonial maps or the rights of indigenous nations within the United States, nor will it be the last project to do such work. 
 
