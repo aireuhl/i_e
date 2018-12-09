@@ -1,0 +1,9 @@
+---
+label: gallery
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  label: gallery
+  name: gallery
+  description: 'add as many images as you want! '
