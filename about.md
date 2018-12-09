@@ -28,6 +28,12 @@ page_sections:
   col_2:
     headline: Ariel Hahn
     content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
+- template: image_gallery
+  image_gallery:
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
 
 ---
 ### **Resources**
