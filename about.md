@@ -15,6 +15,9 @@ page_sections:
   - link_text: ABOUT US
     link: about
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/10/IMG_0831-2.JPG"
 - template: 2-column-text
   block: two-column-1
   col_1:
