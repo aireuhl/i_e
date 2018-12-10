@@ -68,24 +68,25 @@ page_sections:
   content: To understand whether or not the treaties within our sample data set were
     connected, we elected to design a data model well-suited for network visualization.
     The images to the right of this description and below are all screenshots of our
-    data visualized in Palladio. Of the seven treaties analyzed through this web-based
-    software, four of them had connections with one another. <br><br>The two treaties
-    from 1865 (Treaty with the Apache, Cheyenne and Arapaho, Treaty with the Cheyenne
-    and Arapaho) have a total of 20 common signatories. This isn't much of a surprise
-    as two of the three tribes across the two documents are the same, so there was
-    a high-likelihood that we'd find connections between them from the outset. Somewhat
-    more surprisingly, the Treaty with the Wyandot (1785) and the Treaty with the
-    Six Nations (1784) have five signatories in common. Each of the common signatories
-    belongs to a representative of the United States government. This means that elected
-    officials and government employees of the era commonly worked with multiple tribes
-    and indigenous nations to construct treaty documents and redefine where the United
-    States began and ended. <br><br>Future instantiations of this project would benefit
-    from a broader data set. Imagine what connections might exist if we were able
-    to build a network analysis of 200 or 300 treaties? What would that reveal about
-    the relationships and rights present within them? <br><br>Even further, how could
-    these networks be visualized if we paired this information with the accompanying
-    geocoordinates where each treaty was signed? Would we learn new things about how
-    these treaties impacted cartography or how cartography impacted the treaties?
+    data visualized in <a href="http://hdlab.stanford.edu/palladio/" title="">Palladio</a>.
+    Of the seven treaties analyzed through this web-based software, four of them had
+    connections with one another. <br><br>The two treaties from 1865 (Treaty with
+    the Apache, Cheyenne and Arapaho, Treaty with the Cheyenne and Arapaho) have a
+    total of 20 common signatories. This isn't much of a surprise as two of the three
+    tribes across the two documents are the same, so there was a high-likelihood that
+    we'd find connections between them from the outset. Somewhat more surprisingly,
+    the Treaty with the Wyandot (1785) and the Treaty with the Six Nations (1784)
+    have five signatories in common. Each of the common signatories belongs to a representative
+    of the United States government. This means that elected officials and government
+    employees of the era commonly worked with multiple tribes and indigenous nations
+    to construct treaty documents and redefine where the United States began and ended.
+    <br><br>Future instantiations of this project would benefit from a broader data
+    set. Imagine what connections might exist if we were able to build a network analysis
+    of 200 or 300 treaties? What would that reveal about the relationships and rights
+    present within them? <br><br>Even further, how could these networks be visualized
+    if we paired this information with the accompanying geocoordinates where each
+    treaty was signed? Would we learn new things about how these treaties impacted
+    cartography or how cartography impacted the treaties?
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/netviz_one.png"
