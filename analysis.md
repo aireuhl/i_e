@@ -46,6 +46,10 @@ page_sections:
     offered us a useful way to begin looking more   closely at the text. Through distance
     reading, we were able to pull out   what kinds of information we wanted to look
     for in the next phases of   our analysis: geographical maps and network analysis. '
+  media:
+    image: "/uploads/2018/12/10/Screen Shot 2018-12-09 at 11.57.23 PM.png"
+    alt_text: 'A list of blue and black text revealing a screenshot of our textual
+      corpus in Voyant, an open-source analysis software. '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
