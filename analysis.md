@@ -149,7 +149,35 @@ page_sections:
   media:
     image: "/uploads/2018/12/10/date v hue.jpg"
   headline: "<strong>ImagePlot Visualizations: Image Collection Analysis</strong>"
-  content: ''
+  content: 'These visualizations employ computer vision and digital image analysis
+    techniques to analyze our collection of maps. Building off of work by <a href="http://lab.softwarestudies.com/p/overview-slides-and-video-articles-why.html#1"
+    title="">Lev Manovich</a> and the <a href="http://lab.culturalanalytics.info/p/projects.html"
+    title="">Cultural Analytics Lab</a>,  we investigate how digital tools may help
+    us explore patterns in a visual collection. Manovich defines Cultural Analytics
+    as "<strong>the analysis of massive cultural data sets and flows using computational
+    and visualization techniques"</strong> and while our data sets are by not quite
+    "massive," this experiment demonstrates the viability of applying visual analysis
+    to a set of map images. <br><br>Using <a href="http://lab.softwarestudies.com/p/software-for-digital-humanities.html"
+    title="">a suite of open source software</a> tools developed by the Cultural Analytics
+    Lab, we were able to analyze visual qualities (hue, saturation, brightness, shape,
+    and size) of our map images en mass. When combined with our already rich metadata
+    on these digital objects, this new data allowed us to create original visualizations
+    to explore the visual qualities of the collection.  <br> <br>The small size and
+    scope of our image collection severely limits the analytic value of these tools,
+    but with the hundreds of thousands of historic cartographic images freely available
+    through the web, we believe these techniques could be meaningfully applied to
+    similar image collections of much larger scale. Moreover, by integrating geolocation
+    data into the image metadata, these tools could offer new pathways into understanding
+    the way space and geography have been depicted over time. As computer vision continues
+    to improve identifying features such as shape, line patterns and even text, these
+    new capabilities could be meaningfully applied as well. <br><br>These visualizations
+    pose the following questions: What can quantitative analysis of visual qualities
+    like color, hue, saturation and shape tell us about mapping, and how can we meaningfully
+    analyze massive collections of historic maps using digital tools? Finally, we
+    must recognize that because these images are "digital surrogates" of the original
+    paper maps, discrepancies in digitization standards could greatly effect results.
+    For this collection, all digital images share the same source (<a href="https://digitalcollections.nypl.org/"
+    title="">NYPL Digital Collections</a>) and digitization standards.  '
 - template: 2-column-media-element
   block: media-2
   image_1:
