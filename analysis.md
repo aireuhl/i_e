@@ -15,6 +15,9 @@ page_sections:
     link_text: NEXT STEPS
   - link: about
     link_text: ABOUT US
+- template: simple-footer
+  block: footer-1
+  content: "<strong>Voyant: Distance Reading, Up-Close</strong>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
