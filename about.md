@@ -33,7 +33,7 @@ page_sections:
     both familial and personal, in settler colonialism.<br><br>We are also second-year
     graduate students in the Department of Information Studies at UCLA obtaining masters
     degrees in Library and Information Science. <br><br>asawilder@gmail.com / arielhahn@ucla.edu<br>@
-    twitter handle / @ aireuhl '
+    warmjetztzeit / @ aireuhl '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/10/IMG_0831-2.JPG"
