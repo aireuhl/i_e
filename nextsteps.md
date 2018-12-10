@@ -45,7 +45,7 @@ page_sections:
     this is a non-commercial project."></a></p>'
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/12/09/measurementsMAIN.txt - date vs hue_stdev.jpg"
+  background_image: "/uploads/2018/12/09/blue_line.jpg"
   headline: "<strong>What's next ... </strong>"
   content: 'tell me '
   color_selection: "#9013FE"
