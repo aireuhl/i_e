@@ -19,6 +19,15 @@ page_sections:
   block: text-1
   headline: ''
   content: "<h2>Voyant: Distance Reading, Up-Close</h2>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
+  caption: "<!--\tExported from Voyant Tools (voyant-tools.org). The iframe src attribute
+    below uses a relative protocol to better function with both http and https sites,
+    but if you're embedding this into a local web page (file protocol) you should
+    add an explicit protocol (https if you're using voyant-tools.org, otherwise it
+    depends on this server. Feel free to change the height and width values or other
+    styling below: --> <iframe style='width: 1057px; height: 533px;' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
 - template: detail-content
   block: text-1
   content: "<p>Our two Voyant visualizations are the result of ingesting the  .txt
@@ -39,15 +48,6 @@ page_sections:
     us a useful way to begin looking more  closely at the text. Through distance reading,
     we were able to pull out  what kinds of information we wanted to look for in the
     next phases of  our analysis: geographical maps and network analysis. </p>"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
-  caption: "<!--\tExported from Voyant Tools (voyant-tools.org). The iframe src attribute
-    below uses a relative protocol to better function with both http and https sites,
-    but if you're embedding this into a local web page (file protocol) you should
-    add an explicit protocol (https if you're using voyant-tools.org, otherwise it
-    depends on this server. Feel free to change the height and width values or other
-    styling below: --> <iframe style='width: 1057px; height: 533px;' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
 - template: 1-column-text
   block: one-column-1
   headline: 'Voyant: Distance Reading, Up-Close'
