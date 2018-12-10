@@ -18,8 +18,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong><span class="light">If this is a beginning, then what's next?
-    </span></strong>
+  headline: <strong><span class="light">If this is a beginning, then what's next?</span></strong>
   content: This project represents the beginning stages of a much larger-scale endeavor,
     which unfortunately is beyond our current capacity. We believe that more meaningful
     and interesting analytics could emerge through further <strong>harnessing the
