@@ -88,7 +88,7 @@ page_sections:
   headline: ''
 - template: 1-column-text
   block: one-column-1
-  content: <img src="/uploads/2018/12/09/blue_line_small.jpg"><br><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
+  content: <img src="/uploads/2018/12/09/blue_line_small.jpg"><br><br><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
 menu:
   main:
     identifier: home
