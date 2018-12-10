@@ -17,7 +17,7 @@ page_sections:
     link_text: ABOUT US
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2018/12/09/blue_line_small.jpg"
   headline: "<strong>If this is the beginning, what's next? </strong>"
   content: "* what we did here<br>* what we would love to do next<br>* facilitate
     collaboration<br>* contact us "
