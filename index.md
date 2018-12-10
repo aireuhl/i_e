@@ -91,13 +91,13 @@ page_sections:
   image: "/uploads/2018/12/09/blueline_small.jpg"
 - template: 1-column-text
   block: one-column-1
-  content: <img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
-- template: image_gallery
-  image_gallery:
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
-  - "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"
+  content: '<br><a href="https://creativecommons.org/licenses/by-nc/4.0/" title=""><img
+    src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons
+    License with three cirular images: the first image depicts two c''s to mean Creative
+    Commons, the second is the figure of a human to request attribution, and the third
+    is of a dollar sign with a slash through it to demonstrate that this is a non-commercial
+    project."></a><br><span class="cc-license-title">Attribution-Non Commercial 4.0
+    International</span> <span class="cc-license-identifier">(CC BY-NC 4.0)</span>'
 menu:
   main:
     identifier: home
