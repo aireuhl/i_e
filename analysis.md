@@ -17,7 +17,7 @@ page_sections:
     link_text: ABOUT US
 - template: detail-content
   block: text-1
-  headline: 'Voyant: Distance Reading, Up-Close'
+  headline: ''
   content: "<h2>Voyant: Distance Reading, Up-Close</h2>"
 - template: detail-content
   block: text-1
