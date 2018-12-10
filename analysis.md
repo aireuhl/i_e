@@ -23,6 +23,7 @@ page_sections:
     src="/uploads/2018/12/09/GoogleEarth1.jpg"><br><img src="/uploads/2018/12/09/Capture1.JPG">
   media:
     image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m57s554.png"
+  headline: "<strong>Map Warper and Google Earth: SUBTITLE</strong>"
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
