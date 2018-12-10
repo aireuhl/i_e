@@ -23,7 +23,7 @@ page_sections:
     frameborder='0'></iframe>"
 - template: detail-content
   block: text-1
-  headline: 'A linear, time-based representation of the catographic history of North
+  headline: 'A linear, time-based representation of the cartographic history of North
     America '
   content: "<p>In 1778, the Continental Congress signed the first treaty between the
     United States and an indigenous people, the Delaware Nation. Over the last two
