@@ -45,10 +45,12 @@ page_sections:
     this is a non-commercial project."></a></p>'
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/12/09/netviz_one.png"
-  headline: 'What''s next ... '
+  background_image: "/uploads/2018/12/09/measurementsMAIN.txt - date vs hue_stdev.jpg"
+  headline: "<strong>What's next ... </strong>"
   content: 'tell me '
   color_selection: "#9013FE"
+  image:
+    image: "/uploads/2018/12/07/62.jpg"
 menu:
   main:
     weight: 4
