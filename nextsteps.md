@@ -20,8 +20,22 @@ page_sections:
   media_alignment: Left
   headline: <strong><span class="light">If this is a beginning, then what's next?
     </span></strong>
-  content: "* what we did here<br>* what we would love to do next<br>* facilitate
-    collaboration<br>* contact us "
+  content: This project represents the beginning stages of a much larger-scale endeavor,
+    which unfortunately is beyond our current capacity. We believe that more meaningful
+    and interesting analytics could emerge through further harnessing the power of
+    GIS data and building more links between these two interconnected datasets (treaty
+    and map metadata). <br>With a much larger collection of images and much larger
+    datasets, our analysis tools would grow exponentially more powerful.<br><br>Future
+    capture and analysis of textual data could be automated using a Python script
+    and command-line to scrape text and build .txt files directly as well as geocoordinate
+    location information without a GUI.  <br> <br>This project would greatly benefit
+    from a partnership with an institution that houses a large collection of historical
+    maps in need of digitization - ideally,  a more automated way to ingest content
+    into our data model could eventually be worked into the standard workflow for
+    maps digitization.<br><br>We would love to use xml markup to embed more layers
+    of our extensive metadata records into these webpages and we are very interested
+    in integrating OpenStreetMap data to further enhance our visualizations.<br><br>We
+    are open to collaborations and feedback. See About Us for contact information.
   media:
     image: "/uploads/2018/12/10/34.jpg"
     alt_text: 'An 18th Century map of the continential United States with red, yellow,
