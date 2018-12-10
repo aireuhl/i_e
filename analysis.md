@@ -56,10 +56,12 @@ page_sections:
   image_2:
     image: "/uploads/2018/12/09/GoogleEarth2.jpg"
     caption: Warped Map as .kml layer in Google Earth
-- template: full-width-media-element
-  block: media-1
-  caption: ''
-  image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m57s554.png"
+  image_2:
+    image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
