@@ -109,7 +109,7 @@ page_sections:
   image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Map Warper and Google Earth: Comparative Visual Analysis of Geographic
     Representations</strong>"
   content: Using New York Public Library's Map Warper interface, historic maps were
