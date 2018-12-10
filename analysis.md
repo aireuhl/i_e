@@ -101,7 +101,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2018/12/09/measurementsMAIN.txt - brightness_median vs brightness_stdev.jpg"
+    image: "/uploads/2018/12/10/date v hue.jpg"
   headline: "<strong>ImagePlot Visualizations: Image Collection Analysis</strong>"
   content: ''
 - template: 2-column-media-element
