@@ -39,7 +39,10 @@ page_sections:
   media:
     image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
   headline: "<strong>Palladio: Visualizing Signatory Networks in Treaty Text</strong>"
-  content: 'SUMMARY <br>what is in the image '
+  content: 'To understand whether or not the treaties within our sample data set were
+    connected, we elected to design a data model well suited for network visualization.
+    The images to the right of this description and below are all screenshots of our
+    data visualized in Palladio. '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/netviz_one.png"
