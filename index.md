@@ -23,7 +23,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2018/12/09/1049_original.jpg"
+    image: "/uploads/2018/12/10/1778_small.jpg"
     alt_text: The above image depicts the Treaty of the Delaware from 1778, a large
       piece of paper that is divided between treaty text and signatures. The document
       is faded yellow-beige in color and appears to have been folded at four points
