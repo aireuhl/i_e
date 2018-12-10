@@ -19,8 +19,8 @@ page_sections:
   block: two-column-1
   col_1:
     headline: Asa Wilder
-    content: <br><img src="/uploads/2018/12/07/giphy.gif"><br>summary of asa<br>contact
-      information
+    content: <br><img src="/uploads/2018/12/07/giphy.gif"><br>Asa Wilder is XXXXX
+      <br><br>asawilder@gmail.com / @twitterhandle<br>__________________________________________________________________
   col_2:
     headline: Ariel Hahn
     content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
