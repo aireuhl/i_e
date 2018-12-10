@@ -23,7 +23,7 @@ page_sections:
     collaboration<br>* contact us "
   color_selection: "#FFFFFF"
   image:
-    image: "/uploads/2018/12/07/62.jpg"
+    image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
