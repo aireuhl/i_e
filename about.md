@@ -23,7 +23,11 @@ page_sections:
       <br><br>asawilder@gmail.com / @twitterhandle<br>__________________________________________________________________
   col_2:
     headline: Ariel Hahn
-    content: <img src="/uploads/2018/12/10/IMG_4700.jpg"><br>summary of ariel<br>arielhahn@ucla.edu
+    content: <img src="/uploads/2018/12/10/IMG_4700-1.jpg"><br>ariel hahn is an MLIS
+      student in the Department of Information Studies at UCLA and  organizer for
+      README, a student group that advocates for digital rights  within libraries,
+      archives, and information work. She is interested in  questions of time, history,
+      power, technology, and the natural world.<br><br>arielhahn@ucla.edu / @aireuhl<br>____________________________________________________________________
 - template: 3-column-text
   block: three-column-1
   col_1:
