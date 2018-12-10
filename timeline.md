@@ -24,7 +24,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: What time does | What time doesn't do
-  content: "<p></p>"
+  content: "<p>The above timeline serves as an initial inquiry in doing X Y Z. </p>"
 menu:
   main:
     weight: 2
