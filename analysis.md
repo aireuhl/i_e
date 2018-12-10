@@ -46,11 +46,11 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
-    caption: Warped Maps Layered in Google Earth - Animated
+    image: "/uploads/2018/12/09/GoogleEarth1.jpg"
+    caption: 'Warped Maps Layered in Google Earth '
   image_2:
     image: "/uploads/2018/12/09/GoogleEarth2.jpg"
-    caption: Warped Map as .KMG layer in Google Earth
+    caption: Warped Map as .kml layer in Google Earth
 - template: full-width-media-element
   block: media-1
   caption: "<iframe style='width: 80%'; 'height: 80%' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
