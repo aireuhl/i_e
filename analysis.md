@@ -58,8 +58,9 @@ page_sections:
     to build a network analysis of 200 or 300 treaties? What would that reveal about
     the relationships and rights present within them? <br><br>Even further, how could
     these networks be visualized if we paired this information with the accompanying
-    geocoordinates? Would we learn new things about how these treaties potentially
-    impact cartography or how cartography impacted the treaties? '
+    geocoordinates where each treaty was signed? Would we learn new things about how
+    these treaties potentially impact cartography or how cartography impacted the
+    treaties? '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/netviz_one.png"
