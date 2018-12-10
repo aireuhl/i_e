@@ -24,12 +24,17 @@ page_sections:
   col_2:
     headline: Ariel Hahn
     content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
-- template: image_gallery
-  image_gallery:
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
-  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <img src="/uploads/2018/12/07/datevhue.jpg">
+  col_2:
+    headline: RESOURCES
+    content: <a href="https://recordsofrights.org/themes/4/rights-of-native-americans"
+      title="https://recordsofrights.org/themes/4/rights-of-native-americans">https://recordsofrights.org/themes/4/rights-of-native-americans</a>
+  col_3:
+    content: <a href="https://recordsofrights.org/themes/4/rights-of-native-americans"
+      title="https://recordsofrights.org/themes/4/rights-of-native-americans">https://recordsofrights.org/themes/4/rights-of-native-americans</a>
 block: text-1
 menu:
   main:
