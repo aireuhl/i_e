@@ -33,11 +33,11 @@ page_sections:
     with an institution that houses a large collection of historical maps in need
     of digitization - ideally, a more automated way to ingest content into our data
     model could eventually be <strong>integrated into the standard workflow for historic
-    map digitization</strong>.<br><br>We would love to use xml markup to embed more
-    layers of our extensive metadata records into these webpages, and we are very
-    interested in integrating OpenStreetMap data to further enhance our visualizations.<br><br>We
-    are open to collaborations and feedback. See <a href="" title="">ABOUT US</a>
-    for contact information.
+    map digitization</strong>.<br><br>We would love to use <strong>xml markup</strong>
+    to embed more layers of our extensive metadata records into these webpages, and
+    we are very interested in integrating OpenStreetMap data to further enhance our
+    visualizations.<br><br>We are open to collaborations and feedback. See <a href="https://aireuhl.github.io/i_e/about"
+    title="">ABOUT US</a> for contact information.
   media:
     image: "/uploads/2018/12/10/34.jpg"
     alt_text: 'An 18th Century map of the continential United States with red, yellow,
