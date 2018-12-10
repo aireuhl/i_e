@@ -186,6 +186,11 @@ page_sections:
   image_2:
     image: "/uploads/2018/12/09/measurementsMAIN.txt - date vs hue_stdev.jpg"
     caption: 'x-axis: date Issued; y-axis: hue '
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/12/10/date v hue.jpg"
+    caption: 'x-axis: date issued; y-axis hue-standard deviation'
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
