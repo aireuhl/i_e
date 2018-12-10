@@ -24,6 +24,13 @@ page_sections:
     which is explained in detail here, we did XXX<br><br>after experimenting with
     Gephi and Cytoscape, we settle on working with Palladio to attain the following
     network visualizations. '
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+  headline: "<strong>Palladio: Visualizing Signatory Networks in Treaty Text</strong>"
+  content: 'SUMMARY <br>what is in the image '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/netviz_one.png"
@@ -41,17 +48,12 @@ page_sections:
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
   caption: Muscogee Treaty, or A Treaty of Peace and Friendship with the Creeks, 1790
-- template: 1-column-text
-  block: one-column-1
 - template: detail-content
   block: text-1
   content: <p></p><p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650"
     title="Interactive Timeline of Early North American Maps">Interactive Timeline
     of Early North American Maps</a></p>
   headline: Timeline
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
 - template: 2-column-media-element
   block: media-2
   image_1:
