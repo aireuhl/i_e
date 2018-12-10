@@ -18,7 +18,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Voyant: Distance Reading, Up-Close'
-  content: "<h3>Voyant: Distance Reading, Up-Close</h3>"
+  content: "<h1>Voyant: Distance Reading, Up-Close</h1>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
