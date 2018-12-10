@@ -1,6 +1,4 @@
-![uBuild Blocks](uploads/2018/06/21/theme.png)
-
-# i_e (or Imperial Eyes) 
+# i_e (or) Imperial Eyes 
 
 a digital humanities project about time, space and power
 
