@@ -34,7 +34,7 @@ page_sections:
     image: "/uploads/2018/12/10/1852_resized.png"
     caption: Treaty with the Apache, 1852
   image_2:
-    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+    image: "/uploads/2018/12/10/1778_resized.png"
     caption: 'Treaty with the Delaware, 1778 '
 - template: full-width-media-element
   block: media-1
