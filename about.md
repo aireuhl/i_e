@@ -25,7 +25,7 @@ page_sections:
       treaty is in the upper part of the image and reveals, in its center, a series
       of signatures in different kinds of script. '
   headline: "<strong>About us...</strong>"
-  content: 'Imperial Eyes was built and designed by two settlers of European descent.
+  content: Imperial Eyes was built and designed by two settlers of European descent.
     Asa Wilder is a third generation American who grew up in traditional Osage territory.
     Ariel Hahn is a fifth generation Arizonan and descendant of colonial-era settlers
     who was raised in traditional Tohono O’odham territory. We both currently reside
@@ -33,10 +33,10 @@ page_sections:
     both familial and personal, in settler colonialism.<br><br>We are also second-year
     graduate students in the Department of Information Studies at UCLA obtaining masters
     degrees in Library and Information Science. <br><br>asawilder@gmail.com / arielhahn@ucla.edu<br>@
-    warmjetztzeit / @ aireuhl<br><br>The image to the left of this description is
-    of page from Treaty with the Apache, 1852. The document is in the public domain
-    and has been digitized by the <a href="https://images.library.wisc.edu/History/EFacs/IndianTreatiesMicro/IT1852no261/reference/history.it1852no261.i0001.pdf"
-    title="">University of Wisconsin-Madison Digital Collections</a>. '
+    warmjetztzeit / @ aireuhl<br>____________________________________________________________________<br><br>The
+    image to the left of this description is a page from Treaty with the Apache, 1852.
+    The document is in the public domain and has been digitized by <a href="https://images.library.wisc.edu/History/EFacs/IndianTreatiesMicro/IT1852no261/reference/history.it1852no261.i0001.pdf"
+    title="">the University of Wisconsin-Madison Library</a>.
 - template: 1-column-text
   block: one-column-1
   headline: RESOURCES
