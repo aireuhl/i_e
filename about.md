@@ -18,6 +18,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/10/IMG_0831-2.JPG"
+  caption: text
 - template: 2-column-text
   block: two-column-1
   col_1:
