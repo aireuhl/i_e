@@ -92,6 +92,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: <img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
+- template: image_gallery
+  image_gallery:
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
+  - "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
+  - "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"
 menu:
   main:
     identifier: home
