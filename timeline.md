@@ -37,10 +37,10 @@ page_sections:
     description of the size of the original and an attribution to the cartographer
     and engraver. Each treaty includes the exact date, title, an excerpt of text and
     an image, often of a digitized version of the original document.</p><p>All map
-    images were originally obtained from the New York Public Library's digital collection
-    and are believed to be in the Public Domain. All of the treaty images are attributed
-    to the the digital collection they were found in and are believed to be in the
-    Public Domain.</p>
+    images were originally obtained from the <a href="" title="">New York Public Library
+    Digital Collections</a> and are believed to be in the Public Domain. All of the
+    treaty images are attributed to the the digital collection they were found in
+    and are believed to be in the Public Domain.</p>
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
