@@ -27,7 +27,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <img src="/uploads/2018/12/07/datevhue.jpg">
+    content: <img src="/uploads/2018/12/08/035thumb.jpg">
   col_2:
     headline: RESOURCES
     content: <a href="https://recordsofrights.org/themes/4/rights-of-native-americans"
