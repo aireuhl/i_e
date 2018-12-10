@@ -29,7 +29,7 @@ page_sections:
       is faded yellow-beige in color and appears to have been folded at four points
       as there are creases and wear. In the bottom-right hand corner, there are five
       red wax seals that are tied to some of the individuals who signed this treaty.
-  headline: "<strong><em>Project Summary</em></strong>"
+  headline: "<strong>Project Summary</strong>"
   content: Imperial Eyes uses digital tools to engage with the ideological, physical
     and geographic creation of the United States. Through a side-by-side visual analysis
     of historical maps, and a textual analysis of land acquisition treaties, we ask:<em>
@@ -50,7 +50,7 @@ page_sections:
     alt_text: 'An early map of the continental United States with several bright colors
       depicting indigenous linguistic regions of the late 1800s. The map reads "Linguistic
       Stocks of American Indians North of Mexico by J.W. Powell." '
-  headline: "<strong><em>Our Data, Our Workflows</em></strong>"
+  headline: "<strong>Our Data, Our Workflows</strong>"
   content: 'As information studies graduate students and future librarians or archivists,
     we are deeply interested in executing projects predicted upon collaboration, accessibility
     and transparency. <br><br>All of the textual data and digital images featured
