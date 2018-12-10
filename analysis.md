@@ -28,7 +28,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
   headline: "<strong>Palladio: Visualizing Signatory Networks in Treaty Text</strong>"
   content: 'SUMMARY <br>what is in the image '
 - template: full-width-media-element
