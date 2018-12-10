@@ -171,7 +171,7 @@ page_sections:
     the way space and geography have been depicted over time. As computer vision continues
     to improve identifying features such as shape, line patterns and even text, these
     new capabilities could be meaningfully applied as well. <br><br>These visualizations
-    pose the following questions: What can quantitative analysis of visual qualities
+    pose the following questions: what can quantitative analysis of visual qualities
     like color, hue, saturation and shape tell us about mapping, and how can we meaningfully
     analyze massive collections of historic maps using digital tools? Finally, we
     must recognize that because these images are "digital surrogates" of the original
