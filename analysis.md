@@ -26,6 +26,12 @@ page_sections:
   headline: "<strong>Map Warper and Google Earth: SUBTITLE</strong>"
 - template: 2-column-media-element
   block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
+    caption: Treaty with the Apache, 1852
+  image_2:
+    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
+    caption: 'Treaty with the Delaware, 1778 '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.36.11 PM.png"
