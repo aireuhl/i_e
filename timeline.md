@@ -29,7 +29,7 @@ page_sections:
     United States and an indigenous people, the Delaware Nation. Over the last two
     hundred years, <a href="https://www.archives.gov/research/native-americans/treaties"
     title="">more than 500 treaties, executive orders and acts of Congress</a> have
-    since been passed thereby transforming the lived and spatial experience of indigenous
+    since been passed thereby transforming the lived and spatial experience of Indigenous
     people within these territories.</p><p>Use the arrows to navigate through our
     timeline and explore the evolution of the visual and geographic representation
     of the North American land mass. Maps are arranged by the year issued and treaties
