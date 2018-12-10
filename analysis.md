@@ -68,10 +68,13 @@ page_sections:
     Representations</strong>"
   content: Using New York Public Library's Map Warper interface, historic maps were
     "rectified" with current geo-spatial data. These rectified maps were then exported
-    into a shared Google Earth Pro. Transparency sliders allow users to seamlessly
+    into a shared Google Earth Pro folder. Transparency sliders allow users to seamlessly
     alternate between visual representations of the "same" physical space. How did
     the shape and character of the land evolve over time in these representations?
-    How does the edge of the map effect the way we perceive space?
+    How does the edge of the map effect the way we perceive space?<br><br>These images
+    document the working prototype for this visualization. Due to limitations in Google
+    Earth interoperability, these visualizations are currently inaccessible through
+    the web.
   media:
     image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
 - template: 2-column-media-element
