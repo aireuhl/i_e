@@ -73,10 +73,11 @@ page_sections:
     are a combination of digitized pages from Kappler''s text and actual digital scans
     of original treaties, gathered from online digital collections and exhibits by
     the National Archives, University of Wisconsin-Madison, Beaver Area Heritage Foundation,
-    and Oklahoma State University. <br><br>We''ve made our .xml metadata, treaty .txt
-    files, images and workflow information all accessible <a href="https://github.com/aireuhl/i_e/tree/master/our%20data"
-    title="">within this site''s Github repository</a>. Please feel free to download,
-    experiment and share.<br><br>____________________________________________________________________<br><br>The
+    and Oklahoma State University. <br><br>We''ve made our .xml metadata (in MODS
+    3.4 schema), treaty .txt files, images and workflow information all accessible
+    <a href="https://github.com/aireuhl/i_e/tree/master/our%20data" title="">within
+    this site''s Github repository</a>. Please feel free to download, experiment and
+    share.<br><br>____________________________________________________________________<br><br>The
     image to the left of this text is a map titled "Linguistic stocks of American
     Indians north of Mexico" by cartographer John Wesley Powell (1834-1902) and lithography
     by Sackett &amp; Wilhelms Litho and Print Company. It was originally issued in
