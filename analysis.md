@@ -78,8 +78,8 @@ page_sections:
     caption: Warped Map as .KMG layer in Google Earth
 - template: full-width-media-element
   block: media-1
-  caption: "<iframe style='width: 510px; height: 434px;' src='//voyant-tools.org/tool/DreamScape/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
-  image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
+  caption: Treaty with the Comanche, Kiowa and Apache, 1853
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
 - template: full-width-media-element
   block: media-1
   caption: "<iframe style='width: 80%'; 'height: 80%' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
