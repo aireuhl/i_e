@@ -55,25 +55,25 @@ page_sections:
       Stocks of American Indians North of Mexico by J.W. Powell." '
   headline: "<strong>Our Data, Our Workflows</strong>"
   content: 'As information studies graduate students and future librarians or archivists,
-    we are deeply interested in executing projects predicted upon collaboration, accessibility
-    and transparency. <br><br>All of the textual data and digital images featured
-    within Imperial Eyes are in the public domain. This was an intentional choice
-    so that the future of this project is neither owned or controlled by us specifically,
-    nor will it be negatively impacted by intellectual property laws. The map components
-    of our project, in terms of actual .jpg and .tif files as well as .xml metadata,
-    come from the <a href="https://digitalcollections.nypl.org/collections/maps-of-north-america"
+    we are deeply interested in executing projects predicated upon collaboration,
+    accessibility and transparency. <br><br>All of the textual data and digital images
+    featured within Imperial Eyes are in the public domain. This was an intentional
+    choice so that the future of this project is neither owned or controlled by us
+    specifically, nor will it be negatively impacted by intellectual property laws.
+    The map components of our project, in terms of actual .jpg and .tif files as well
+    as .xml metadata, come from the <a href="https://digitalcollections.nypl.org/collections/maps-of-north-america"
     title="">New York Public Library’s “Maps of North America” Digital Collection</a>.
     The text-based treaty elements of this project come from Yale Law School''s "<a
     href="http://avalon.law.yale.edu/default.asp" title="">Avalon Project: Documents
-    in Law, History and Diplomacy.</a>" That online text was transcribed from the
-    multiple volumes of <a href="https://www.worldcat.org/search?q=au%3AKappler%2C+Charles+Joseph%2C&amp;qt=hot_author"
+    in Law, History and Diplomacy.</a>" The online text was transcribed from the multiple
+    volumes of <a href="https://www.worldcat.org/search?q=au%3AKappler%2C+Charles+Joseph%2C&amp;qt=hot_author"
     title="">Charles Joseph Kappler''s</a> <em>Indian Affairs: Laws and Treaties</em>,
     a bound collection of United States governmental laws and treaties with Indian
     nations that stem from the beginning of this country. Images for our treaties
     are a combination of digitized pages from Kappler''s text and actual digital scans
     of original treaties, gathered from online digital collections and exhibits by
     the National Archives, University of Wisconsin-Madison, Beaver Area Heritage Foundation,
-    and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
+    and Oklahoma State University. <br><br>We''ve made our .xml metadata, treaty .txt
     files, images and workflow information all accessible <a href="https://github.com/aireuhl/i_e/tree/master/our%20data"
     title="">within this site''s Github repository</a>. Please feel free to download,
     experiment and share.'
