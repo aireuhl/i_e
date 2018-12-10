@@ -23,7 +23,7 @@ page_sections:
     but if you're embedding this into a local web page (file protocol) you should
     add an explicit protocol (https if you're using voyant-tools.org, otherwise it
     depends on this server. Feel free to change the height and width values or other
-    styling below: --> <iframe style='width: 1057px; height: 533px;' src='//voyant-tools.org/tool/DreamScape/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
+    styling below: --> <iframe style='width: 1057px; height: 533px;' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
@@ -32,7 +32,7 @@ page_sections:
     but if you're embedding this into a local web page (file protocol) you should
     add an explicit protocol (https if you're using voyant-tools.org, otherwise it
     depends on this server. Feel free to change the height and width values or other
-    styling below: --> <iframe style='width: 1057px; height: 533px;' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
+    styling below: --> <iframe style='width: 1057px; height: 533px;' src='//voyant-tools.org/tool/DreamScape/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
