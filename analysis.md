@@ -27,6 +27,8 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/netviz_one.png"
+  caption: Treaty with the Apache, Cheyenne and Arapaho; Treaty with the Cheyenne
+    and Arapaho, both 1865
 - template: 2-column-media-element
   block: media-2
   image_1:
