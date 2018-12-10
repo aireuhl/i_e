@@ -19,7 +19,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/2018/12/09/1049_original.jpg"
+    image: "/uploads/2018/12/10/0002.jpg"
   headline: "<strong>About us...</strong>"
   content: 'Imperial Eyes was built and designed by two settlers of European descent.
     Asa Wilder is a third generation American who grew up in traditional Osage territory.
