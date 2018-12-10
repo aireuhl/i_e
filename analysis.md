@@ -3,10 +3,6 @@ title: Analysis
 layout: blocks
 date: 2018-12-07 06:25:21 +0000
 page_sections:
-- template: ''
-  block: ''
-  logo: ''
-  navigation: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
@@ -19,6 +15,14 @@ page_sections:
     link_text: NEXT STEPS
   - link: about
     link_text: ABOUT US
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: <br><img src="/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"><br><img
+    src="/uploads/2018/12/09/movie8-000281.jpg"><br><img src="/uploads/2018/12/09/GoogleEarth2.jpg"><br><img
+    src="/uploads/2018/12/09/GoogleEarth1.jpg"><br><img src="/uploads/2018/12/09/Capture1.JPG">
+  media:
+    image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m57s554.png"
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
