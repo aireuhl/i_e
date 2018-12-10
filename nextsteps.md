@@ -43,6 +43,12 @@ page_sections:
     mean Creative Commons, the second is the figure of a human to request attribution,
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/12/09/netviz_one.png"
+  headline: 'What''s next ... '
+  content: 'tell me '
+  color_selection: "#9013FE"
 menu:
   main:
     weight: 4
