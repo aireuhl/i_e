@@ -24,10 +24,9 @@ page_sections:
     which is explained in detail here, we did XXX<br><br>after experimenting with
     Gephi and Cytoscape, we settle on working with Palladio to attain the following
     network visualizations. '
-- template: 1-column-text
-  block: one-column-1
-  headline: Visualizating Signatories with Palladio
-  content: <img src="/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png">
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/netviz_one.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
