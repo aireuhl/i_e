@@ -33,7 +33,10 @@ page_sections:
     both familial and personal, in settler colonialism.<br><br>We are also second-year
     graduate students in the Department of Information Studies at UCLA obtaining masters
     degrees in Library and Information Science. <br><br>asawilder@gmail.com / arielhahn@ucla.edu<br>@
-    warmjetztzeit / @ aireuhl '
+    warmjetztzeit / @ aireuhl<br><br>The image to the left of this description is
+    of page from Treaty with the Apache, 1852. The document is in the public domain
+    and has been digitized by the <a href="https://images.library.wisc.edu/History/EFacs/IndianTreatiesMicro/IT1852no261/reference/history.it1852no261.i0001.pdf"
+    title="">University of Wisconsin-Madison Digital Collections</a>. '
 - template: 1-column-text
   block: one-column-1
   headline: RESOURCES
