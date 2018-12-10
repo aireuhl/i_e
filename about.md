@@ -23,7 +23,7 @@ page_sections:
       <br><br>asawilder@gmail.com / @twitterhandle<br>__________________________________________________________________
   col_2:
     headline: Ariel Hahn
-    content: <img src="/uploads/2018/12/07/giphy.gif"><br>summary of ariel
+    content: <img src="/uploads/2018/12/10/IMG_4700.jpg"><br>summary of ariel<br>arielhahn@ucla.edu
 - template: 3-column-text
   block: three-column-1
   col_1:
