@@ -77,6 +77,12 @@ page_sections:
     image: "/uploads/2018/12/09/measurementsMAIN.txt - brightness_median vs brightness_stdev.jpg"
   headline: "<strong>ImageJ: SUBTITLE </strong>"
   content: What are we looking at?
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/measurementsMAIN.txt - saturation_median vs hue_median.jpg"
+  image_2:
+    image: "/uploads/2018/12/09/measurementsMAIN.txt - date vs hue_stdev.jpg"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
