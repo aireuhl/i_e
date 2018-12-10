@@ -28,19 +28,10 @@ page_sections:
   block: one-column-1
   headline: Visualizating Signatories with Palladio
   content: <img src="/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png">
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: <br><img src="/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"><br><img
-    src="/uploads/2018/12/09/movie8-000281.jpg"><br><img src="/uploads/2018/12/09/GoogleEarth2.jpg"><br><img
-    src="/uploads/2018/12/09/GoogleEarth1.jpg"><br><img src="/uploads/2018/12/09/Capture1.JPG">
-  media:
-    image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m57s554.png"
-  headline: "<strong>Map Warper and Google Earth: SUBTITLE</strong>"
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.37.19 PM.png"
+    image: "/uploads/2018/12/10/1852_resized.png"
     caption: Treaty with the Apache, 1852
   image_2:
     image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.32.57 PM.png"
