@@ -18,9 +18,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/12/09/blue_line.jpg"
-  headline: "<strong>What's next ... </strong>"
-  content: 'tell me '
-  color_selection: "#9013FE"
+  headline: "<strong>If this is the beginning, what's next? </strong>"
+  content: "* what we did here<br>* what we would love to do next<br>* facilitate
+    collaboration<br>* contact us "
+  color_selection: "#FFFFFF"
   image:
     image: "/uploads/2018/12/07/62.jpg"
 - template: detail-content
