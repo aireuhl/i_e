@@ -3,10 +3,6 @@ title: Next Steps
 layout: blocks
 date: 2018-12-09 08:47:38 +0000
 page_sections:
-- template: ''
-  block: ''
-  logo: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
-  navigation: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
@@ -19,6 +15,9 @@ page_sections:
     link_text: NEXT STEPS
   - link: about
     link_text: ABOUT US
+- template: detail-content
+  block: text-1
+  content: "<p></p>"
 menu:
   main:
     weight: 4
