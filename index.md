@@ -47,7 +47,9 @@ page_sections:
   media_alignment: Left
   media:
     image: "/uploads/2018/12/07/62.jpg"
-    alt_text: Credit
+    alt_text: 'An early map of the continental United States with several bright colors
+      depicting indigenous linguistic regions of the late 1800s. The map reads "Linguistic
+      Stocks of American Indians North of Mexico by J.W. Powell." '
   headline: "<strong><em>Our Data, Our Workflows</em></strong>"
   content: 'As information studies graduate students and future librarians or archivists,
     we are deeply interested in executing projects predicted upon collaboration, accessibility
