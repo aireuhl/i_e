@@ -71,6 +71,9 @@ page_sections:
     and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
     files, images, and workflow information all accessible within this site''s Github
     repository. Please feel free to download, experiment and share.'
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/blueline_small.jpg"
 - template: detail-content
   block: text-1
   content: '<h5>This project was developed in a graduate information studies course
@@ -91,18 +94,6 @@ page_sections:
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
   headline: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/09/blueline_small.jpg"
-- template: 1-column-text
-  block: one-column-1
-  content: '<br><a href="https://creativecommons.org/licenses/by-nc/4.0/" title=""><img
-    src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons
-    License with three cirular images: the first image depicts two c''s to mean Creative
-    Commons, the second is the figure of a human to request attribution, and the third
-    is of a dollar sign with a slash through it to demonstrate that this is a non-commercial
-    project."></a><br><span class="cc-license-title">Attribution-Non Commercial 4.0
-    International</span> <span class="cc-license-identifier">(CC BY-NC 4.0)</span>'
 menu:
   main:
     identifier: home
