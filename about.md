@@ -17,7 +17,7 @@ page_sections:
   logo: "/uploads/2018/12/07/eye_icon_nounproject_qolbinsalim.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
     image: "/uploads/2018/12/09/1049_original.jpg"
   headline: "<strong>About us...</strong>"
