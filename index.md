@@ -73,17 +73,6 @@ page_sections:
     and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
     files, images, and workflow information all accessible within this site''s Github
     repository. Please feel free to download, experiment and share.<br>'
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/12/09/blueline_small.jpg"
-  caption: This project was developed in a graduate information studies course at
-    UCLA in the fall of 2018Imperial Eyes acknowledges the Tongva peoples as the traditional
-    land caretakers of Tovaangar (Los Angeles basin, So. Channel Islands) and are
-    grateful to have the opportunity to work for the taraaxatom (indigenous peoples)
-    in this place. As a land grant institution, we pay our respects to Honuukvetam
-    (Ancestors), Ahiihirom (Elders), and eyoohiinkem (our relatives/relations) past,
-    present and emerging." This territory acknowledgement and accompanying pronunciations
-    are attributed to the UCLA World Arts and Cultures/Dance Department.
 - template: detail-content
   block: text-1
   content: '<h5>This project was developed in a graduate information studies course
@@ -103,8 +92,6 @@ page_sections:
     mean Creative Commons, the second is the figure of a human to request attribution,
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
-  headline: <iframe src="https://giphy.com/embed/3ELODh3u7T8Qg" width="480" height="173"
-    frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/art-three-galleries-3ELODh3u7T8Qg"></a></p>
 menu:
   main:
     identifier: home
