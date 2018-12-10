@@ -25,13 +25,15 @@ page_sections:
   block: text-1
   headline: 'A linear, time-based representation of the catographic history of North
     America '
-  content: "<p>Using the arrows to navigate through the timeline, explore the evolution
-    of the visual and geographic representation of the North American land mass.  Maps
-    are arranged by the year issued and treaties are arranged by the date signed.
-    Each map includes the original title, a physical description of the size of the
-    original, and an attribution to the cartographer and engraver.  </p><p>All map
-    images were originally obtained from the New York Public Library's digital collection
-    and are believed to be in the Public Domain. </p>"
+  content: "<p>In 1778, the Continental Congress signed the first treaty between the
+    United States and an indigenous people, the Delaware Nation. Over the next </p><p>Using
+    the arrows to navigate through the timeline, explore the evolution of the visual
+    and geographic representation of the North American land mass. Maps are arranged
+    by the year issued and treaties are arranged by the date signed. Each map includes
+    the original title, a physical description of the size of the original, and an
+    attribution to the cartographer and engraver.</p><p>All map images were originally
+    obtained from the New York Public Library's digital collection and are believed
+    to be in the Public Domain.</p>"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
