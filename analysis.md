@@ -111,6 +111,7 @@ page_sections:
     caption: Median Saturation vs. Median Hue
   image_2:
     image: "/uploads/2018/12/09/measurementsMAIN.txt - date vs hue_stdev.jpg"
+    caption: 'x-axis: date Issued; y-axis: hue '
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
