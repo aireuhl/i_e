@@ -48,6 +48,8 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Google Earth and Map Warper: SUBTITLE</strong>"
   content: 'What are we looking at '
+  media:
+    image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
 - template: 2-column-media-element
   block: media-2
   image_1:
