@@ -70,6 +70,13 @@ page_sections:
     image: "/uploads/2018/12/09/movie8-000281.jpg"
   image_2:
     image: "/uploads/2018/12/09/Capture1.JPG"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2018/12/09/measurementsMAIN.txt - brightness_median vs brightness_stdev.jpg"
+  headline: "<strong>ImageJ: SUBTITLE </strong>"
+  content: What are we looking at?
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
