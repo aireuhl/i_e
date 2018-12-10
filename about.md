@@ -19,7 +19,7 @@ page_sections:
   block: two-column-1
   col_1:
     headline: Asa Wilder
-    content: <img src="/uploads/2018/12/10/IMG_0831-1.JPG"><br>Asa Wilder is XXXXX
+    content: <img src="/uploads/2018/12/10/IMG_0831-2.JPG"><br>Asa Wilder is XXXXX
       <br><br>asawilder@gmail.com / @twitterhandle<br>____________________________________________________________________
   col_2:
     headline: Ariel Hahn
