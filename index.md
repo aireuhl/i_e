@@ -89,6 +89,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: <img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/blueline_small.jpg"
+- template: 1-column-text
+  block: one-column-1
+  content: <img src="/uploads/2018/12/09/blue_line_small.jpg">
 menu:
   main:
     identifier: home
