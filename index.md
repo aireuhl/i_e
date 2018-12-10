@@ -104,7 +104,8 @@ page_sections:
     mean Creative Commons, the second is the figure of a human to request attribution,
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
-  headline: ''
+  headline: <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjj0JD5hJTfAhWMHXwKHSRlBL4QjRx6BAgBEAU&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fart-three-galleries-3ELODh3u7T8Qg&psig=AOvVaw3KmWlfdIaMXSgW3CWvKQIT&ust=1544489241414190"
+    /img>
 menu:
   main:
     identifier: home
