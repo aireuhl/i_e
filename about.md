@@ -24,7 +24,7 @@ page_sections:
       There are multiple pieces of paper evident, placed on top of each other. The
       treaty is in the upper part of the image and reveals, in its center, a series
       of signatures in different kinds of script. '
-  headline: "<strong>About us...</strong>"
+  headline: "<strong><em>About us...</em></strong>"
   content: 'Imperial Eyes was built and designed by two settlers of European descent.
     Asa Wilder is a third generation American who grew up in traditional Osage territory.
     Ariel Hahn is a fifth generation Arizonan and descendant of colonial-era settlers
