@@ -15,14 +15,14 @@ page_sections:
     link_text: NEXT STEPS
   - link: about
     link_text: ABOUT US
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: 'A beginning.... '
-  content: 'This project does x Y and Z it just a beginning and this is what the next
-    version will include and where we hope it will go. '
-  media:
-    image: "/uploads/2018/12/09/MAP_WARPER_animation.gif"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/12/09/blue_line.jpg"
+  headline: "<strong>What's next ... </strong>"
+  content: 'tell me '
+  color_selection: "#9013FE"
+  image:
+    image: "/uploads/2018/12/07/62.jpg"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
@@ -43,14 +43,6 @@ page_sections:
     mean Creative Commons, the second is the figure of a human to request attribution,
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2018/12/09/blue_line.jpg"
-  headline: "<strong>What's next ... </strong>"
-  content: 'tell me '
-  color_selection: "#9013FE"
-  image:
-    image: "/uploads/2018/12/07/62.jpg"
 menu:
   main:
     weight: 4
