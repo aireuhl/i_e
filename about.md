@@ -38,14 +38,14 @@ page_sections:
   block: one-column-1
   headline: RESOURCES
   content: 'Imperial Eyes is not the first digital or archival project to analyze
-    colonial maps or the look at the history of indigenous land rights within the
-    United States, nor will it be the last project to do such work. With that, we''ve
-    included a brief list of some recent to explore if you want to do further research
-    or engage with some of these issues and questions with greater depth. <br><br>+<a
-    href="https://native-land.ca/">Native Land</a>, an indigenous territory mapping
-    project from Victor G. Temprano.<br>+ <a href="https://native-land.ca/teachers-guide/">Native
-    Land''s Teacher Resources</a>, which asks questions like: how does the modern
-    idea of a ‘nation-state’ relate to Indigenous nations?<br>+ <a href="http://www.beacon.org/An-Indigenous-Peoples-History-of-the-United-States-P1164.aspx"><em>An
+    colonial maps or look at the history of indigenous land rights within the United
+    States, nor will it be the last project to do such work. With that, we''ve included
+    a brief list of some recent to explore if you want to do further research or engage
+    with some of these issues and questions with greater depth. <br><br>+<a href="https://native-land.ca/">Native
+    Land</a>, an indigenous territory mapping project from Victor G. Temprano.<br>+
+    <a href="https://native-land.ca/teachers-guide/">Native Land''s Teacher Resources</a>,
+    which asks questions like: how does the modern idea of a ‘nation-state’ relate
+    to Indigenous nations?<br>+ <a href="http://www.beacon.org/An-Indigenous-Peoples-History-of-the-United-States-P1164.aspx"><em>An
     Indigenous Peoples'' History of the United States</em></a>, a book by Roxanne
     Dunbar-Ortiz.<br>+ <a href="https://www.whose.land/en/about">Whose.land</a>, an
     educational project that pairs the Native Land mapping project with territory
