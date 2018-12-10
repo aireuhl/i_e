@@ -30,7 +30,7 @@ page_sections:
       as there are creases and wear. In the bottom-right hand corner, there are five
       red wax seals that are tied to some of the individuals who signed this treaty.
   headline: "<strong>Project Summary</strong>"
-  content: 'Imperial Eyes uses digital tools to engage with the ideological, physical
+  content: Imperial Eyes uses digital tools to engage with the ideological, physical
     and geographic creation of the United States. Through a side-by-side visual analysis
     of historical maps, and a textual analysis of land acquisition treaties, we ask:<em>
     how did the acquisition and theft of land by European colonizers influence the
@@ -41,10 +41,10 @@ page_sections:
     treaties helped shape the way land and space were visualized by early American
     cartographers. <br><br>By creating a navigable timeline of maps and treaties,
     we hope to offer a deeper understanding of the way space is visualized in relation
-    to political circumstances and cultural assumptions.<br>____________________________________________________________________<br>The
+    to political circumstances and cultural assumptions.<br>____________________________________________________________________<br><br>The
     image to the right of this text is the Treaty with the Delaware, 1778. The original
     document was digitized by <a href="" title="">the National Archives</a> and is
-    in the Public Domain. '
+    in the Public Domain.
 - template: content-feature
   block: feature-1
   media_alignment: Left
