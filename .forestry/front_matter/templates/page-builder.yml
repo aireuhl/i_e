@@ -35,7 +35,7 @@ fields:
   - image_gallery
 pages:
 - index.md
-- timeline.md
 - nextsteps.md
+- timeline.md
 - analysis.md
 - about.md

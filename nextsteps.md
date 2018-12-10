@@ -35,6 +35,12 @@ page_sections:
     mean Creative Commons, the second is the figure of a human to request attribution,
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 'A beginning.... '
+  content: 'This project does x Y and Z it just a beginning and this is what the next
+    version will include and where we hope it will go. '
 menu:
   main:
     weight: 4
