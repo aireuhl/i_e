@@ -50,7 +50,8 @@ page_sections:
     alt_text: 'An early map of the continental United States with several bright colors
       depicting indigenous linguistic regions of the late 1800s. The map reads "Linguistic
       Stocks of American Indians North of Mexico by J.W. Powell." '
-  headline: "<strong><em>Our Data, Our Workflows</em></strong>"
+  headline: <strong><em><img src="/uploads/2018/12/09/blueline_small.jpg">Our Data,
+    Our Workflows</em></strong>
   content: 'As information studies graduate students and future librarians or archivists,
     we are deeply interested in executing projects predicted upon collaboration, accessibility
     and transparency. <br><br>All of the textual data and digital images featured
@@ -72,7 +73,7 @@ page_sections:
     the National Archives, University of Wisconsin-Madison, Beaver Area Heritage Foundation,
     and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
     files, images, and workflow information all accessible within this site''s Github
-    repository. Please feel free to download, experiment and share.<br><img src="/uploads/2018/12/09/blue_line_small.jpg">'
+    repository. Please feel free to download, experiment and share.<br>'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/blueline_small.jpg"
