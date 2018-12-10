@@ -36,6 +36,10 @@ page_sections:
   image: "/uploads/2018/12/09/netviz_one.png"
   caption: Treaty with the Apache, Cheyenne and Arapaho; Treaty with the Cheyenne
     and Arapaho, both 1865
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
+  caption: Treaty with the Wyandot, 1785; Treaty with the Six Nations, 1784
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -46,8 +50,8 @@ page_sections:
     caption: 'Treaty with the Delaware, 1778 '
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.47.27 PM.png"
-  caption: Treaty with the Wyandot, 1785; Treaty with the Six Nations, 1784
+  caption: Treaty with the Comanche, Kiowa and Apache, 1853
+  image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
 - template: detail-content
   block: text-1
   content: <p></p><p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1erbmO_us4olt10zRy9Q5I8h_qhUMKQQp_akHhLoSNjo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650"
@@ -76,10 +80,6 @@ page_sections:
   image_2:
     image: "/uploads/2018/12/09/GoogleEarth2.jpg"
     caption: Warped Map as .KMG layer in Google Earth
-- template: full-width-media-element
-  block: media-1
-  caption: Treaty with the Comanche, Kiowa and Apache, 1853
-  image: "/uploads/2018/12/09/Screen Shot 2018-12-08 at 10.40.31 PM.png"
 - template: full-width-media-element
   block: media-1
   caption: "<iframe style='width: 80%'; 'height: 80%' src='//voyant-tools.org/tool/Loom/?corpus=df672285c836b1fef0d52e3eec1beb01'></iframe>"
