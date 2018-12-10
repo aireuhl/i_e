@@ -23,8 +23,15 @@ page_sections:
     frameborder='0'></iframe>"
 - template: detail-content
   block: text-1
-  headline: What time does | What time doesn't do
-  content: "<p>The above timeline serves as an initial inquiry in doing X Y Z. </p>"
+  headline: 'A linear, time-based representation of the catographic history of North
+    America '
+  content: "<p>Using the arrows to navigate through the timeline, explore the evolution
+    of the visual and geographic representation of the North American land mass.  Maps
+    are arranged by the year issued and treaties are arranged by the date signed.
+    Each map includes the original title, a physical description of the size of the
+    original, and an attribution to the cartographer and engraver.  </p><p>All map
+    images were originally obtained from the New York Public Library's digital collection
+    and are believed to be in the Public Domain. </p>"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
