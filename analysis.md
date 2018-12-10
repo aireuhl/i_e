@@ -15,6 +15,10 @@ page_sections:
     link_text: NEXT STEPS
   - link: about
     link_text: ABOUT US
+- template: detail-content
+  block: text-1
+  headline: 'Voyant: Distance Reading, Up-Close'
+  content: "<h3>Voyant: Distance Reading, Up-Close</h3>"
 - template: simple-footer
   block: footer-1
   content: "<strong>Voyant: Distance Reading, Up-Close</strong>"
