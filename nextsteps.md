@@ -24,6 +24,9 @@ page_sections:
     collaboration<br>* contact us "
   media:
     image: "/uploads/2018/12/10/34.jpg"
+    alt_text: 'An 18th Century map of the continential United States with red, yellow,
+      and green details. Though California is listed on this early map, there are
+      no northwestern states and much of the south is defined as New Mexico and Georgia. '
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
