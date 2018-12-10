@@ -155,7 +155,7 @@ page_sections:
     title="">Cultural Analytics Lab</a>,  we investigate how digital tools may help
     us explore patterns in a visual collection. Manovich defines Cultural Analytics
     as "<strong>the analysis of massive cultural data sets and flows using computational
-    and visualization techniques"</strong> and while our data sets are by not quite
+    and visualization techniques,"</strong> and while our data sets are not quite
     "massive," this experiment demonstrates the viability of applying visual analysis
     to a set of map images. <br><br>Using <a href="http://lab.softwarestudies.com/p/software-for-digital-humanities.html"
     title="">a suite of open source software</a> tools developed by the Cultural Analytics
