@@ -41,7 +41,7 @@ page_sections:
     treaties helped shape the way land and space were visualized by early American
     cartographers. <br><br>By creating a navigable timeline of maps and treaties,
     we hope to offer a deeper understanding of the way space is visualized in relation
-    to political circumstances and cultural assumptions.<br><br><img src="/uploads/2018/12/09/blue_line_small.jpg">
+    to political circumstances and cultural assumptions.
 - template: content-feature
   block: feature-1
   media_alignment: Left
