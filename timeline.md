@@ -25,21 +25,22 @@ page_sections:
   block: text-1
   headline: 'A linear, time-based representation of the cartographic history of North
     America '
-  content: "<p>In 1778, the Continental Congress signed the first treaty between the
+  content: <p>In 1778, the Continental Congress signed the first treaty between the
     United States and an indigenous people, the Delaware Nation. Over the last two
-    hundred years, more than 500 treaties, executive orders and acts of Congress have
+    hundred years, <a href="https://www.archives.gov/research/native-americans/treaties"
+    title="">more than 500 treaties, executive orders and acts of Congress</a> have
     since been passed thereby transforming the lived and spatial experience of indigenous
-    people within these territories. </p><p>Use the arrows to navigate through our
+    people within these territories.</p><p>Use the arrows to navigate through our
     timeline and explore the evolution of the visual and geographic representation
     of the North American land mass. Maps are arranged by the year issued and treaties
     are arranged by the date signed. Each map includes the original title, a physical
     description of the size of the original and an attribution to the cartographer
     and engraver. Each treaty includes the exact date, title, an excerpt of text and
-    an image, often of a digitized version of the original document. </p><p>All map
+    an image, often of a digitized version of the original document.</p><p>All map
     images were originally obtained from the New York Public Library's digital collection
     and are believed to be in the Public Domain. All of the treaty images are attributed
     to the the digital collection they were found in and are believed to be in the
-    Public Domain. </p>"
+    Public Domain.</p>
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
