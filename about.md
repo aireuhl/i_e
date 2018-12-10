@@ -20,7 +20,7 @@ page_sections:
   col_1:
     headline: Asa Wilder
     content: <img src="/uploads/2018/12/10/IMG_0831-1.JPG"><br>Asa Wilder is XXXXX
-      <br><br>asawilder@gmail.com / @twitterhandle<br>__________________________________________________________________
+      <br><br>asawilder@gmail.com / @twitterhandle<br>____________________________________________________________________
   col_2:
     headline: Ariel Hahn
     content: <img src="/uploads/2018/12/10/IMG_4700-1.jpg"><br>ariel hahn is an MLIS
