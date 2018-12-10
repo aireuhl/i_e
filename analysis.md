@@ -62,6 +62,12 @@ page_sections:
     image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m57s554.png"
   image_2:
     image: "/uploads/2018/12/09/vlcsnap-2018-12-09-09h17m21s245.png"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/12/09/movie8-000281.jpg"
+  image_2:
+    image: "/uploads/2018/12/09/Capture1.JPG"
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
