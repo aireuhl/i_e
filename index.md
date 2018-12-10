@@ -76,7 +76,13 @@ page_sections:
     and Oklahoma State University. <br><br>We''ve made our .xml metadata, treaty .txt
     files, images and workflow information all accessible <a href="https://github.com/aireuhl/i_e/tree/master/our%20data"
     title="">within this site''s Github repository</a>. Please feel free to download,
-    experiment and share.'
+    experiment and share.<br><br>____________________________________________________________________<br><br>The
+    image to the left of this text is a map titled "Linguistic stocks of American
+    Indians north of Mexico" by cartographer John Wesley Powell (1834-1902) and lithography
+    by Sackett &amp; Wilhelms Litho and Print Company. It was originally issued in
+    1891. The original document was digitized by <a href="https://digitalcollections.nypl.org/"
+    title="">The New York Public Library Digital Collections</a> and is in the Public
+    Domain.'
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
