@@ -7,5 +7,3 @@ fields:
   name: image_gallery
   label: image_gallery
   description: add images
-pages:
-- av.md
