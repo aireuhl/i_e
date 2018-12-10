@@ -68,7 +68,7 @@ page_sections:
     in Law, History and Diplomacy.</a>" The online text was transcribed from the multiple
     volumes of <a href="https://www.worldcat.org/search?q=au%3AKappler%2C+Charles+Joseph%2C&amp;qt=hot_author"
     title="">Charles Joseph Kappler''s</a> <em>Indian Affairs: Laws and Treaties</em>,
-    a bound collection of United States governmental laws and treaties with Indian
+    a bound collection of United States governmental laws and treaties with Indigenous
     nations that stem from the beginning of this country. Images for our treaties
     are a combination of digitized pages from Kappler''s text and actual digital scans
     of original treaties, gathered from online digital collections and exhibits by
