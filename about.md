@@ -24,12 +24,12 @@ page_sections:
   content: 'Imperial Eyes was built and designed by two settlers of European descent.
     Asa Wilder is a third generation American who grew up in traditional Osage territory.
     Ariel Hahn is a fifth generation Arizonan and descendant of colonial-era settlers
-    who was raised in traditional Tohono O’odham territory. We are both currently
-    reside in traditional Tongva territory and are interested in interrogating their
-    participation, both familial and personal, in settler colonialism.<br><br>We are
-    also second-year graduate students in the Department of Information Studies at
-    UCLA obtaining masters degrees in Library and Information Science. <br><br>asawilder@gmail.com
-    / arielhahn@ucla.edu<br>@ twitter handle / @ aireuhl '
+    who was raised in traditional Tohono O’odham territory. We both currently reside
+    in traditional Tongva territory and are interested in interrogating our participation,
+    both familial and personal, in settler colonialism.<br><br>We are also second-year
+    graduate students in the Department of Information Studies at UCLA obtaining masters
+    degrees in Library and Information Science. <br><br>asawilder@gmail.com / arielhahn@ucla.edu<br>@
+    twitter handle / @ aireuhl '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/10/IMG_0831-2.JPG"
