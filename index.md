@@ -76,6 +76,14 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/blueline_small.jpg"
+  caption: This project was developed in a graduate information studies course at
+    UCLA in the fall of 2018Imperial Eyes acknowledges the Tongva peoples as the traditional
+    land caretakers of Tovaangar (Los Angeles basin, So. Channel Islands) and are
+    grateful to have the opportunity to work for the taraaxatom (indigenous peoples)
+    in this place. As a land grant institution, we pay our respects to Honuukvetam
+    (Ancestors), Ahiihirom (Elders), and eyoohiinkem (our relatives/relations) past,
+    present and emerging." This territory acknowledgement and accompanying pronunciations
+    are attributed to the UCLA World Arts and Cultures/Dance Department.
 - template: detail-content
   block: text-1
   content: '<h5>This project was developed in a graduate information studies course
