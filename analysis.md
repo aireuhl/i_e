@@ -78,15 +78,15 @@ page_sections:
     the Treaty with the Wyandot (1785) and the Treaty with the Six Nations (1784)
     have five signatories in common. Each of the common signatories belongs to a representative
     of the United States government. This means that elected officials and government
-    employees of the era commonly worked with multiple tribes and indigenous nations
-    to construct treaty documents and redefine where the United States began and ended.
-    <br><br>Future instantiations of this project would benefit from a broader data
-    set. Imagine what connections might exist if we were able to build a network analysis
-    of 200 or 300 treaties? What would that reveal about the relationships and rights
-    present within them? <br><br>Even further, how could these networks be visualized
-    if we paired this information with the accompanying geocoordinates where each
-    treaty was signed? Would we learn new things about how these treaties impacted
-    cartography or how cartography impacted the treaties?
+    employees of the era commonly worked with multiple tribes and Indigenous nations
+    to construct treaty documents and redefine where the United States as a geographic
+    mass began and ended. <br><br>Future instantiations of this project would benefit
+    from a broader data set. Imagine what connections might exist if we were able
+    to build a network analysis of 200 or 300 treaties? What would that reveal about
+    the relationships and rights present within them? <br><br>Even further, how could
+    these networks be visualized if we paired this information with the accompanying
+    geocoordinates where each treaty was signed? Would we learn new things about how
+    these treaties impacted cartography or how cartography impacted the treaties?
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/netviz_one.png"
