@@ -71,7 +71,7 @@ page_sections:
     of original treaties, gathered from online digital collections and exhibits by
     the National Archives, University of Wisconsin-Madison, Beaver Area Heritage Foundation,
     and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
-    files, images, and workflow information all accessible within this site''s Github
+    files, images and workflow information all accessible within this site''s Github
     repository. Please feel free to download, experiment and share.'
 - template: detail-content
   block: text-1
