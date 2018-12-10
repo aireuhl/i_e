@@ -72,7 +72,7 @@ page_sections:
     the National Archives, University of Wisconsin-Madison, Beaver Area Heritage Foundation,
     and Oklahoma State University. <br><br>We''ve made our .xml metdata, treaty .txt
     files, images, and workflow information all accessible within this site''s Github
-    repository. Please feel free to download, experiment and share.'
+    repository. Please feel free to download, experiment and share.<br><img src="/uploads/2018/12/09/blue_line_small.jpg">'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/blueline_small.jpg"
