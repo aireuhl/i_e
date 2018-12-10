@@ -18,7 +18,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong><em><span class="light">If this is a beginning, then what's next?</span></em></strong>
+  headline: <strong><em><span class="light">If this is a beginning, then what's next?
+    </span></em></strong>
   content: "* what we did here<br>* what we would love to do next<br>* facilitate
     collaboration<br>* contact us "
   media:
