@@ -18,7 +18,27 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Voyant: Distance Reading, Up-Close'
-  content: "<h1>Voyant: Distance Reading, Up-Close</h1>"
+  content: "<h2>Voyant: Distance Reading, Up-Close</h2>"
+- template: detail-content
+  block: text-1
+  content: "<p>Our two Voyant visualizations are the result of ingesting the  .txt
+    files from 30 full-text treaties between the United States and  various indigenous
+    peoples in the 18th and 19th centuries. The first  visualization is called Loom
+    and graphs the instances of 500 of the most  common words present across the text.
+    Though visually engaging and  dynamic when you start to drag your cursor across
+    the left-hand list of  words, this visualization does not provide enough information
+    about the  documents at first glance. If you play around with the settings and
+    \ lower the word count, then you begin to see interesting word occurrences  throughout
+    the available menu categories. <br><br>The second  visualization, Dreamscape,
+    is an experimental tool from Voyant that  highlights geographic text in your files
+    and maps it. Here we begin to  see a pattern emerge. All of the locations highlighted
+    are in the  eastern region of the land in question. Closer reading of the text
+    \ reveals that many of the later treaties involve areas further west so,  though
+    this image is very dynamic, it is just the first step of many  necessary to begin
+    a large-scale, investigative digital humanities  project.<br><br>Voyant offered
+    us a useful way to begin looking more  closely at the text. Through distance reading,
+    we were able to pull out  what kinds of information we wanted to look for in the
+    next phases of  our analysis: geographical maps and network analysis. </p>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/09/Screen Shot 2018-12-09 at 12.34.16 AM.png"
