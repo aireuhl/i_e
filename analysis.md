@@ -191,6 +191,9 @@ page_sections:
   image_1:
     image: "/uploads/2018/12/10/date v hue.jpg"
     caption: 'x-axis: date issued; y-axis hue-standard deviation'
+  image_2:
+    image: "/uploads/2018/12/10/montage.JPG"
+    caption: Montage - arranged by date issued
 - template: detail-content
   block: text-1
   content: '<p>____________________________________________________________________</p><h5>This
