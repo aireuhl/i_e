@@ -21,7 +21,7 @@ page_sections:
   caption: a digital humanities project about time, space and power
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/2019/05/18/1778_small-1.jpg"
     alt_text: The above image depicts the Treaty of the Delaware from 1778, a large
