@@ -47,7 +47,7 @@ page_sections:
     in the Public Domain.
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/2018/12/07/62.jpg"
     alt_text: 'An early map of the continental United States with several bright colors
