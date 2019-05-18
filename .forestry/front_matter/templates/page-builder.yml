@@ -1,7 +1,6 @@
 ---
 label: page-builder
 hide_body: true
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -34,8 +33,8 @@ fields:
   - 4-column-footer
   - image_gallery
 pages:
-- index.md
+- about.md
+- analysis.md
 - timeline.md
 - nextsteps.md
-- analysis.md
-- about.md
+- index.md

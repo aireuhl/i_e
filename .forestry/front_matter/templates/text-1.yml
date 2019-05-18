@@ -1,7 +1,6 @@
 ---
 label: text-1
 hide_body: true
-is_partial: false
 fields:
 - type: text
   hidden: false
