@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -21,9 +21,9 @@ page_sections:
   caption: a digital humanities project about time, space and power
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
-    image: "/uploads/2019/05/17/1778_small-1.jpg"
+    image: "/uploads/2019/05/18/1778_small-1.jpg"
     alt_text: The above image depicts the Treaty of the Delaware from 1778, a large
       piece of paper that is divided between treaty text and signatures. The document
       is faded yellow-beige in color and appears to have been folded at four points
@@ -104,6 +104,7 @@ page_sections:
     mean Creative Commons, the second is the figure of a human to request attribution,
     and the third is of a dollar sign with a slash through it to demonstrate that
     this is a non-commercial project."></a></p>'
+  headline: ''
 menu:
   main:
     identifier: home
